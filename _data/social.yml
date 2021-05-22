@@ -211,3 +211,8 @@ matrix:
   name: Matrix
   icon: icon-bubbles
   prepend: "https://matrix.to/#/"
+dblp:
+  name: DBLP
+  icon: icon-library
+  prepend: "https://dblp.uni-trier.de/pid/"
+  append: ".html"
