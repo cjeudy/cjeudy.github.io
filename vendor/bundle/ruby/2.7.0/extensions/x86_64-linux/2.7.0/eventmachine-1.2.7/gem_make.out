@@ -1,0 +1,16 @@
+current directory: /home/coconut/Documents/Website/austinhuang0131.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/home/coconut/.rvm/rubies/ruby-2.7.2/bin/ruby -I /home/coconut/.rvm/rubies/ruby-2.7.2/lib/ruby/2.7.0 -r ./siteconf20210522-125195-apqm7y.rb extconf.rb
+creating Makefile
+
+current directory: /home/coconut/Documents/Website/austinhuang0131.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /home/coconut/Documents/Website/austinhuang0131.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/coconut/Documents/Website/austinhuang0131.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20210522-125195-1np707g

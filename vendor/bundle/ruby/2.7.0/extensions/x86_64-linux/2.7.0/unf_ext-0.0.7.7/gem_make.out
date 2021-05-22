@@ -1,0 +1,16 @@
+current directory: /home/coconut/Documents/Website/austinhuang0131.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+/home/coconut/.rvm/rubies/ruby-2.7.2/bin/ruby -I /home/coconut/.rvm/rubies/ruby-2.7.2/lib/ruby/2.7.0 -r ./siteconf20210522-125195-1vr8ban.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /home/coconut/Documents/Website/austinhuang0131.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" clean
+
+current directory: /home/coconut/Documents/Website/austinhuang0131.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR="
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: /home/coconut/Documents/Website/austinhuang0131.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20210522-125195-kuit2x
