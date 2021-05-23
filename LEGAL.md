@@ -14,11 +14,10 @@ All rights reserved by Corentin Jeudy. Reproductions without permission are forb
 ## Credits
 
 - This website is hosted on Github Pages. [Source](https://github.com/cjeudy/cjeudy.github.io){:target="_blank"}.
-- This website is powered by the free version of Hydejack, which is licensed under GPLv3 (see below for a verbatim copy). Also see [notice](https://hydejack.com/notice/).
+- This website is powered by the free version of Hydejack, which is licensed under GPLv3 (see below for a verbatim copy). Also see [notice](https://hydejack.com/NOTICE/).
+- The sidebar background image is credited to Helena Bartosova (_Winter in Bohemia by Helena Bartosova_, Fedora 25 Supplemental Backgrounds).
 
 ---
-
-# LICENSE
 
 * this list will be replaced by the toc
 {:toc .large-only}

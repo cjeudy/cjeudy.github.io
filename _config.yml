@@ -42,7 +42,6 @@ author:
   name:                Corentin Jeudy
   email:               corentin.jeudy@irisa.fr
   social:
-    email: mailto:corentin.jeudy@irisa.fr
     github: cjeudy
     linkedin: corentin-jeudy-270713151
     dblp: "275/3570"
@@ -55,8 +54,12 @@ menu:
     url:               /#publications
   - title:             Talks
     url:               /#talks
-  - title:             About
-    url:               /#about
+  - title:             Teaching
+    url:               /#teaching
+  - title:             About Me
+    url:               /#about-me
+  - title:             Contact
+    url:               /#contact
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -85,15 +88,15 @@ theme_color:           rgb(8,46,57)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
-google_fonts:          Roboto+Slab:700|Noto+Sans:400,400i,700,700i
+google_fonts:          Nunito+Sans:600|Nunito+Sans:400,400i,700,700i
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font:                  Noto Sans, Helvetica, Arial, sans-serif
+font:                  Nunito Sans, Helvetica, Arial, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
+font_heading:          Nunito Slab, Helvetica, Arial, sans-serif
 
 # The font used for code blocks. Expects a string that is a valid CSS font-family value.
 font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
