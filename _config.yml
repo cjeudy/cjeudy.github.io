@@ -56,8 +56,6 @@ menu:
     url:               /#talks
   - title:             Teaching
     url:               /#teaching
-  - title:             About Me
-    url:               /#about-me
   - title:             Contact
     url:               /#contact
 
