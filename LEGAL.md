@@ -1,6 +1,21 @@
 ---
 layout: plain
+title: LEGAL
+permalink: /LEGAL
 sitemap: false
+---
+
+## Website Content
+
+All rights reserved by Corentin Jeudy. Reproductions without permission are forbidden.
+
+---
+
+## Credits
+
+- This website is hosted on Github Pages. [Source](https://github.com/cjeudy/cjeudy.github.io){:target="_blank"}.
+- This website is powered by the free version of Hydejack, which is licensed under GPLv3 (see below for a verbatim copy). Also see [notice](https://hydejack.com/notice/).
+
 ---
 
 # LICENSE

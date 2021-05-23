@@ -61,10 +61,11 @@ menu:
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:             LICENSE
-    url:               /LICENSE
+  - title:             LEGAL
+    url:               /LEGAL
 
-
+# This text will appear in a `<small>` tag in the footer of every page.
+copyright:             © 2021 Corentin Jeudy. All rights reserved.
 # Theme
 # ---------------------------------------------------------------------------------------
 
