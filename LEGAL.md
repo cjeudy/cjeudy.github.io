@@ -7,7 +7,7 @@ sitemap: false
 
 ## Website Content
 
-All rights reserved by Corentin Jeudy. Reproductions without permission are forbidden.
+© 2021 Corentin Jeudy. All rights reserved. Reproductions without permission are forbidden.
 
 ---
 
