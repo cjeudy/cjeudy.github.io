@@ -7,11 +7,35 @@ permalink: /videos/a_quick_intro_to_lattice_cryptography
 
 Here is a short video explaining the basic principles of lattice-based cryptography. This provides the general landscape without going into the details of reductions, nor security proofs. Some aspects like discrete Gaussian distributions, dual lattices, or lattice geometry that are primary in lattice cryptography are not covered.  
 
+<div class="embed-container">
+  <iframe
+      src="../assets/videos/lattice_cryptography_video.mp4"
+      width="720"
+      height="480"
+      frameborder="0"
+      allowfullscreen=""
+      autoplay="0">
+  </iframe>
+</div>
 
+<div class="embed-container">
+  <iframe
+      src="../assets/videos/lattice_cryptography_video.webm"
+      width="720"
+      height="480"
+      frameborder="0"
+      allowfullscreen=""
+      autoplay="0">
+  </iframe>
+</div>
+
+<div class="embed-container">
 <video width="1280" height="720" poster="../assets/videos/lattice_cryptography_thumbnail.png" controls>
-  <source src="../assets/videos/lattice_cryptography_video.mp4" type="video/mp4"/>
   <source src="../assets/videos/lattice_cryptography_video.webm" type="video/webm"/>
-</video>   
+  <source src="../assets/videos/lattice_cryptography_video.mp4" type="video/mp4"/>
+<!--   <source src="../assets/videos/lattice_cryptography_video.mkv" type="video/mkv"/>
+ --></video>   
+</div>
 
 The animations are done with the [manim Python library](https://github.com/3b1b/manim) developed by Grant Sanderson, owner of the [3Blue1Brown Youtube channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw), and many other contributors.
 
