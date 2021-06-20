@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/videos/a_quick_intro_to_lattice_cryptography</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -11,14 +14,14 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/pub/BJRW20_Towards_Classical_Hardness_MLWE_Linear_Rank.pdf</loc>
-<lastmod>2020-09-14T10:48:32+02:00</lastmod>
+<lastmod>2021-06-20T14:54:44+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/pub/BJRW21_Hardness_bin-MLWE.pdf</loc>
-<lastmod>2021-03-27T09:40:40+01:00</lastmod>
+<lastmod>2021-06-20T14:54:44+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/slides/2021-05-19_CTRSA_Hardness_of_binMLWE.pdf</loc>
-<lastmod>2021-04-07T11:42:49+02:00</lastmod>
+<lastmod>2021-06-20T14:54:44+02:00</lastmod>
 </url>
 </urlset>

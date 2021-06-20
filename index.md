@@ -6,7 +6,7 @@ cover: true
 permalink: /
 ---
 
-I am a research intern in the [EMSEC](https://www.irisa.fr/emsec/) team at [IRISA](https://www.irisa.fr/), Rennes under the supervision of [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/) and [Weiqiang Wen](http://people.irisa.fr/Weiqiang.Wen/). I am working on lattice-based cryptography.
+I am a research intern in the [EMSEC](https://www.irisa.fr/emsec/) team at [IRISA](https://www.irisa.fr/), Rennes under the supervision of [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/) and [Weiqiang Wen](http://people.irisa.fr/Weiqiang.Wen/). I am working on lattice-based cryptography. Feel free to check out my quick introduction [video](videos/a_quick_intro_to_lattice_cryptography) on lattice cryptography.
 
 In April 2021, I completed my master of engineering in the cybersecurity specialization at [Centrale Paris](https://www.centralesupelec.fr/). From January 2019 to June 2019, I visited [Carnegie Mellon University](https://www.cmu.edu/) as an exchange student in the [Electrical and Computer Engineering Department](https://www.ece.cmu.edu/).  
 Before that, in 2017, I completed my two years of preparatory classes in Mathematics and Physics at [Lycée Jacques Amyot](https://www.lyceejamyot-melun.fr/main.php?page=85). My thesis project was on the _theory and implementation of the signature scheme ECDSA_.  
