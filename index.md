@@ -31,7 +31,7 @@ In the proceedings of [Asiacrypt 2020](https://asiacrypt.iacr.org/2020/).
 # Talks
 
 
-- 19/05/2021: _On the Hardness of Module-LWE with Binary Secret_. At RSA Conference 2021 - Cryptographer's Track (online). [Slides](/assets/slides/2021-05-19_CTRSA_Hardness_of_binMLWE.pdf)
+- 19/05/2021: _On the Hardness of Module-LWE with Binary Secret_. At RSA Conference 2021 - Cryptographer's Track (online). [Slides](/assets/slides/2021-05-19_CTRSA_Hardness_of_binMLWE.pdf), [Video](https://www.youtube.com/watch?v=AfDskDKEzwg&t=1412s)
 
 
 
