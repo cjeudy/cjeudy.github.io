@@ -6,7 +6,9 @@ cover: true
 permalink: /
 ---
 
-I am a research intern in the [EMSEC](https://www.irisa.fr/emsec/) team at [IRISA](https://www.irisa.fr/), Rennes under the supervision of [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/) and [Weiqiang Wen](http://people.irisa.fr/Weiqiang.Wen/). I am working on lattice-based cryptography. Feel free to check out my quick introduction [video](videos/a_quick_intro_to_lattice_cryptography) on lattice cryptography.
+Since October 2021, I am a PhD student in the [Applied Cryptography Group](https://crypto.orange-labs.fr/) at Orange Labs and the [CAPSULE team](https://www.irisa.fr/emsec/) (former EMSEC) at IRISA in Rennes, under the supervision of [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) (IRISA), [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/) (IRISA) and [Olivier Sanders](https://crypto.orange-labs.fr/people/Sanders) (Orange Labs). I am working on post-quantum cryptography, and more precisely on designing lattice-based signature schemes. Feel free to check out my quick introduction [video](videos/a_quick_intro_to_lattice_cryptography) on lattice cryptography.
+
+Before that, I was a research intern (Jan. - Jul. 2020 & Apr. - Sep. 2021) supervised by [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/). I was working on the computational assumptions underlying lattice-based cryptosystems, namely the Module Learning With Errors problem.
 
 In April 2021, I completed my master of engineering in the cybersecurity specialization at [Centrale Paris](https://www.centralesupelec.fr/). From January 2019 to June 2019, I visited [Carnegie Mellon University](https://www.cmu.edu/) as an exchange student in the [Electrical and Computer Engineering Department](https://www.ece.cmu.edu/).  
 Before that, in 2017, I completed my two years of preparatory classes in Mathematics and Physics at [Lycée Jacques Amyot](https://www.lyceejamyot-melun.fr/main.php?page=85). My thesis project was on the _theory and implementation of the signature scheme ECDSA_.  
@@ -17,10 +19,13 @@ Before that, in 2017, I completed my two years of preparatory classes in Mathema
 ---
 # Publications
 
+**2021**  
 
 - **On the Hardness of Module-LWE with Binary Secret.** [Paper](/papers/on_the_hardness_of_module-lwe_with_binary_secret)  
 [Katharina Boudgoust](https://katinkabou.github.io/), Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Weiqiang Wen](http://people.irisa.fr/Weiqiang.Wen/)  
-In the proceedings of [CT-RSA 2021](https://sites.google.com/site/ctrsa2021/).
+In the proceedings of [CT-RSA 2021](https://sites.google.com/site/ctrsa2021/).  
+
+**2020**  
 
 - **Towards Classical Hardness of Module-LWE: The Linear Rank Case.** [Paper](papers/towards_classical_hardness_of_module-lwe_the_linear_rank_case)   
 [Katharina Boudgoust](https://katinkabou.github.io/), Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Weiqiang Wen](http://people.irisa.fr/Weiqiang.Wen/)  
@@ -48,12 +53,13 @@ Co-construction of the course as part of the first year curriculum of CentraleSu
 ---
 # Contact
 
-
-IRISA, Rennes  
+Corentin JEUDY  
+Office F435, IRISA, Rennes  
+Campus universitaire de Beaulieu  
 263 Avenue du Général Leclerc  
 35042 Rennes Cedex  
 France   
 
-**Affiliation**: Univ Rennes, CNRS, IRISA
+**Affiliation**: Orange Labs, Univ Rennes, CNRS, IRISA
 
 <!-- <span class="icon-mail"></span> --> **Email**: corentin <!-- edjkzzoi"_8 -->&bull; jeudy [a<!-- ejhiekbdk -->t] irisa<!-- zmzkpzoç038UHOEdk --> &bull; fr

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: A quick introduction to Lattice Cryptography
-<!-- description: Here, I'm a Discord/Telegram bot developer who has done many private contracts! Maybe you should... hire me? -->
 permalink: /videos/a_quick_intro_to_lattice_cryptography
 ---
 
@@ -24,7 +23,7 @@ Here is a short video explaining the basic principles of lattice-based cryptogra
 </video>   
 </div>
 
-The animations are done with the [manim Python library](https://github.com/3b1b/manim) developed by Grant Sanderson, owner of the [3Blue1Brown Youtube channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw), and many other contributors.
+The animations are done with the [manim Python library](https://github.com/3b1b/manim) developed by Grant Sanderson, owner of the [3Blue1Brown Youtube channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw), and many other contributors. This video was submitted to the [Summer Of Math Exposition 1](https://www.3blue1brown.com/blog/some1) in July 2021, organized to encourage math explainers online.
 
 ## References 
 
