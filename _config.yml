@@ -26,7 +26,8 @@ lang:                  en
 title:                 Corentin Jeudy
 
 # A shorter description for the sidebar.
-tagline:               'PhD Student @ Orange Labs, Univ Rennes, CNRS, IRISA'
+tagline: |
+  PhD Student @ Orange Labs, Univ Rennes, CNRS, IRISA
 
 # A list of keywords for your blog
 keywords:              []

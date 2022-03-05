@@ -107,7 +107,7 @@ Powered by Hydejack v9.1.4 <https://hydejack.com/>
   w._search = {
     DATA_URL: '/assets/sitedata.json?no-cache',
     STORAGE_KEY: 'mini-search/',
-    INDEX_KEY: 'index--2022-03-05T11:02:12+01:00',
+    INDEX_KEY: 'index--2022-03-05T11:16:00+01:00',
   };
   w._clapButton = true;
 }(window);</script>
@@ -150,6 +150,7 @@ html{--accent-color: rgb(79,177,186);--accent-color-faded: rgba(79,177,186,0.5);
 <meta name="msapplication-TileImage" content="/assets/icons/icon-144x144.png">
 <meta name="msapplication-config" content="/assets/icons/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
+<script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
 <meta name="google-site-verification" content="rmzGirLq_pGT3F_05HKEDWB-I6SpvGlvR58WZU4besY" />
 
 
@@ -1135,8 +1136,51 @@ copy of the Program in return for a fee.</p>
   
 
 <!--<![endif]-->
-  
+  <!-- socials and footer Hydejack link open in new tabs -->
+<script type="text/javascript">
+  var len =  document.getElementsByClassName("no-mark-external").length;
+  for (var i = 0 ; i < len; i++) {
+    document.getElementsByClassName("no-mark-external")[i].setAttribute("target","_blank");
+  }
+</script>
 
+<script defer type="text/javascript">
+  // var spy;
+  // var isHome = false;
+  document.getElementById('_pushState').addEventListener('hy-push-state-load', function() {
+    document.getElementsByClassName("external")[0].setAttribute("target", "_blank");
+    // if (document.getElementsByClassName("home-element").length == 1){
+    //   document.getElementById("_drawer--opened").closest("ul").setAttribute("id","my-awesome-nav");
+    //   spy = new Gumshoe('#my-awesome-nav a');
+    //   isHome = true;
+    // }
+  });
+</script>
+
+<!-- <script defer type="text/javascript">
+  document.getElementById('_pushState').addEventListener('hy-push-state-ready', function() {
+    if (isHome == true){
+      spy.destroy();
+      isHome = false;
+    }
+  });
+</script> -->
+
+<!-- reduce font size of tagline-->
+<!-- incorporate typewriter.js -->
+<script type="text/javascript">
+  document.getElementsByClassName("sidebar-about")[0].children[2].innerHTML = "<span class='sr-only'>PhD Student @ Orange Labs, Univ Rennes, CNRS, IRISA</span><span id='mytag' aria-hidden='true'></span>";
+/*  document.getElementsByClassName("sidebar-about")[0].children[2].style.fontSize = "1rem";*/  
+  var typewriter = new Typewriter(mytag, {
+    loop: false,
+    delay: 55,
+    deleteSpeed: 1
+  });
+  typewriter.pauseFor(2000)
+  .typeString('PhD Student @ Orange Labs, Univ Rennes, CNRS, IRISA')
+  .pauseFor(6000)
+  .start();
+</script>
 
 
 <div hidden>
