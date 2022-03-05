@@ -1,7 +1,6 @@
 ---
 layout: page
 title: On the Hardness of Module-LWE with Binary Secret
-<!-- description: Here, I'm a Discord/Telegram bot developer who has done many private contracts! Maybe you should... hire me? -->
 permalink: /papers/on_the_hardness_of_module-lwe_with_binary_secret
 ---
 

@@ -13,11 +13,15 @@ Before that, I was a research intern (Jan. - Jul. 2020 & Apr. - Sep. 2021) super
 In April 2021, I completed my master of engineering in the cybersecurity specialization at [Centrale Paris](https://www.centralesupelec.fr/). From January 2019 to June 2019, I visited [Carnegie Mellon University](https://www.cmu.edu/) as an exchange student in the [Electrical and Computer Engineering Department](https://www.ece.cmu.edu/).  
 Before that, in 2017, I completed my two years of preparatory classes in Mathematics and Physics at [Lycée Jacques Amyot](https://www.lyceejamyot-melun.fr/main.php?page=85). My thesis project was on the _theory and implementation of the signature scheme ECDSA_.  
 
-**Extra**: I find a particular interest in series and film culture, and science-fiction books. I also like cooking, solving the rubik's cube, and playing chess.
-
 
 ---
 # Publications
+
+**2022**
+
+- **Entropic Hardness of Module-LWE from Module-NTRU.** [Paper](/papers/entropic_hardness_of_module-lwe_from_module-ntru)  
+[Katharina Boudgoust](https://katinkabou.github.io/), Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Weiqiang Wen](http://people.irisa.fr/Weiqiang.Wen/)  
+Only available on [IACR ePrint](https://eprint.iacr.org/2022/245).  
 
 **2021**  
 

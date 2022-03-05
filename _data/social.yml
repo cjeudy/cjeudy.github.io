@@ -216,3 +216,7 @@ dblp:
   icon: icon-library
   prepend: "https://dblp.uni-trier.de/pid/"
   append: ".html"
+orcid:
+  name: ORCID
+  icon: icon-search
+  prepend: "https://orcid.org/"

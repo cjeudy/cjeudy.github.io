@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Towards Classical Hardness of Module-LWE: The Linear Rank Case"
-<!-- description: Here, I'm a Discord/Telegram bot developer who has done many private contracts! Maybe you should... hire me? -->
 permalink: /papers/towards_classical_hardness_of_module-lwe_the_linear_rank_case
 ---
 

@@ -4,6 +4,9 @@
 <loc>http://localhost:4000/videos/a_quick_intro_to_lattice_cryptography</loc>
 </url>
 <url>
+<loc>http://localhost:4000/papers/entropic_hardness_of_module-lwe_from_module-ntru</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
