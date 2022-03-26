@@ -6,7 +6,7 @@ cover: true
 permalink: /
 ---
 
-Since October 2021, I am a PhD student in the [Applied Cryptography Group](https://crypto.orange-labs.fr/) at Orange Labs and the [CAPSULE team](https://www.irisa.fr/emsec/) (former EMSEC) at IRISA in Rennes, under the supervision of [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) (IRISA), [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/) (IRISA) and [Olivier Sanders](https://crypto.orange-labs.fr/people/Sanders) (Orange Labs). I am working on post-quantum cryptography, and more precisely on designing lattice-based signature schemes. Feel free to check out my quick introduction [video](videos/a_quick_intro_to_lattice_cryptography) on lattice cryptography.
+Since October 2021, I am a PhD student in the [Applied Cryptography Group](https://crypto.orange-labs.fr/) at Orange Labs and the [CAPSULE team](https://team.inria.fr/capsule/) at INRIA/IRISA in Rennes, under the supervision of [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) (IRISA), [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/) (IRISA) and [Olivier Sanders](https://crypto.orange-labs.fr/people/Sanders) (Orange Labs). I am working on post-quantum cryptography, and more precisely on designing lattice-based signature schemes. Feel free to check out my quick introduction [video](videos/a_quick_intro_to_lattice_cryptography) on lattice cryptography.
 
 Before that, I was a research intern (Jan. - Jul. 2020 & Apr. - Sep. 2021) supervised by [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/). I was working on the computational assumptions underlying lattice-based cryptosystems, namely the Module Learning With Errors problem.
 
