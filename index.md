@@ -19,9 +19,13 @@ Before that, in 2017, I completed my two years of preparatory classes in Mathema
 
 **2022**
 
+- **On the Hardness of Module Learning With Errors with Short Distributions.** [Paper](/papers/on_the_hardness_of_module_learning_with_errors_with_short_distributions)  
+[Katharina Boudgoust](https://katinkabou.github.io/), Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Weiqiang Wen](http://people.irisa.fr/Weiqiang.Wen/)  
+Only available on [IACR ePrint](https://eprint.iacr.org/2022/472) at the moment.  
+
 - **Entropic Hardness of Module-LWE from Module-NTRU.** [Paper](/papers/entropic_hardness_of_module-lwe_from_module-ntru)  
 [Katharina Boudgoust](https://katinkabou.github.io/), Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Weiqiang Wen](http://people.irisa.fr/Weiqiang.Wen/)  
-Only available on [IACR ePrint](https://eprint.iacr.org/2022/245).  
+Only available on [IACR ePrint](https://eprint.iacr.org/2022/245) at the moment.  
 
 **2021**  
 
