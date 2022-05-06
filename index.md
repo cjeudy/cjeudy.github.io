@@ -6,7 +6,7 @@ cover: true
 permalink: /
 ---
 
-Since October 2021, I am a PhD student in the [Applied Cryptography Group](https://crypto.orange-labs.fr/) at Orange Labs and the [CAPSULE team](https://team.inria.fr/capsule/) at INRIA/IRISA in Rennes, under the supervision of [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) (IRISA), [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/) (IRISA) and [Olivier Sanders](https://crypto.orange-labs.fr/people/Sanders) (Orange Labs). I am working on post-quantum cryptography, and more precisely on designing lattice-based signature schemes. Feel free to check out my quick introduction [video](videos/a_quick_intro_to_lattice_cryptography) on lattice cryptography.
+Since October 2021, I am a PhD student in the [Applied Cryptography Group](https://crypto.orange-labs.fr/) at Orange Labs and the [CAPSULE team](https://team.inria.fr/capsule/) at INRIA/IRISA in Rennes, under the supervision of [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/) (IRISA), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226) (Orange Labs) and [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) (IRISA). I am working on post-quantum cryptography, and more precisely on designing lattice-based signature schemes. Feel free to check out my quick introduction [video](videos/a_quick_intro_to_lattice_cryptography) on lattice cryptography.
 
 Before that, I was a research intern (Jan. - Jul. 2020 & Apr. - Sep. 2021) supervised by [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/). I was working on the computational assumptions underlying lattice-based cryptosystems, namely the Module Learning With Errors problem.
 
@@ -18,6 +18,10 @@ Before that, in 2017, I completed my two years of preparatory classes in Mathema
 # Publications
 
 **2022**
+
+- **Lattice-Based Signature with Efficient Protocols, Revisited.** [Paper](/papers/lattice-based_signature_with_efficient_protocols_revisited)  
+Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226)  
+Only available on [IACR ePrint](https://eprint.iacr.org/2022/509) at the moment.  
 
 - **On the Hardness of Module Learning With Errors with Short Distributions.** [Paper](/papers/on_the_hardness_of_module_learning_with_errors_with_short_distributions)  
 [Katharina Boudgoust](https://katinkabou.github.io/), Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Weiqiang Wen](http://people.irisa.fr/Weiqiang.Wen/)  
