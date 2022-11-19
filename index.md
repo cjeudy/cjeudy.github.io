@@ -6,7 +6,7 @@ cover: true
 permalink: /
 ---
 
-Since October 2021, I am a PhD student in the [Applied Cryptography Group](https://crypto.orange-labs.fr/) at Orange Labs and the [CAPSULE team](https://team.inria.fr/capsule/) at INRIA/IRISA in Rennes, under the supervision of [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/) (IRISA), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226) (Orange Labs) and [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) (IRISA). I am working on post-quantum cryptography, and more precisely on designing lattice-based signature schemes. Feel free to check out my quick introduction [video](videos/a_quick_intro_to_lattice_cryptography) on lattice cryptography.
+Since October 2021, I am a PhD student in the [Applied Cryptography Group](https://crypto.orange-labs.fr/) at Orange Labs and the [CAPSULE team](https://team.inria.fr/capsule/) at INRIA/IRISA in Rennes, under the supervision of [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/) (IRISA), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226) (Orange Labs) and [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) (IRISA). I am working on post-quantum cryptography, and more precisely on designing advanced lattice-based signature schemes. Feel free to check out my quick introduction [video](videos/a_quick_intro_to_lattice_cryptography) on lattice cryptography.
 
 Before that, I was a research intern (Jan. - Jul. 2020 & Apr. - Sep. 2021) supervised by [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/). I was working on the computational assumptions underlying lattice-based cryptosystems, namely the Module Learning With Errors problem.  
 
@@ -25,11 +25,11 @@ Only available on [IACR ePrint](https://eprint.iacr.org/2022/509) at the moment.
 
 - **On the Hardness of Module Learning With Errors with Short Distributions.** [Paper](/papers/on_the_hardness_of_module_learning_with_errors_with_short_distributions)  
 [Katharina Boudgoust](https://katinkabou.github.io/), Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Weiqiang Wen](http://people.irisa.fr/Weiqiang.Wen/)  
-To appear in [IACR Journal of Cryptology](https://www.springer.com/journal/145). Only available on [IACR ePrint](https://eprint.iacr.org/2022/472) at the moment.  
+To appear in [IACR Journal of Cryptology](https://www.springer.com/journal/145).  
 
 - **Entropic Hardness of Module-LWE from Module-NTRU.** [Paper](/papers/entropic_hardness_of_module-lwe_from_module-ntru)  
 [Katharina Boudgoust](https://katinkabou.github.io/), Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Weiqiang Wen](http://people.irisa.fr/Weiqiang.Wen/)  
-To appear in [Indocrypt 2022](https://www.tcgcrest.org/indocrypt-2022-accepted-papers/). Only available on [IACR ePrint](https://eprint.iacr.org/2022/245) at the moment.  
+To appear in [Indocrypt 2022](https://www.tcgcrest.org/indocrypt-2022-accepted-papers/).  
 
 **2021**  
 
@@ -49,18 +49,24 @@ In the proceedings of [Asiacrypt 2020](https://asiacrypt.iacr.org/2020/).
 
 
 - 19/05/2021: _On the Hardness of Module-LWE with Binary Secret_. At RSA Conference 2021 - Cryptographer's Track (online). [Slides](/assets/slides/2021-05-19_CTRSA_Hardness_of_binMLWE.pdf), [Video](https://www.youtube.com/watch?v=AfDskDKEzwg&t=1412s)  
-- 11/04/2022: _Entropic Hardness of Module-LWE from Module-NTRU_. At [Journées C2](https://jc2-2022.inria.fr/fr/) 2022, Hendaye, France. [Slides](/assets/slides/2022-04-11_JC2_Entropic_Hardness_M-LWE_from_M-NTRU.pdf)
+- 11/04/2022: _Entropic Hardness of Module-LWE from Module-NTRU_. At [Journées C2](https://jc2-2022.inria.fr/fr/) 2022, Hendaye, France. [Slides](/assets/slides/2022-04-11_JC2_Entropic_Hardness_M-LWE_from_M-NTRU.pdf)  
+- 11/10/2022: _On the Hardness of Module Learning With Errors with Short Distributions_. At Caen University, Algo Seminar. [Slides](assets/slides/2022-10-11_Caen_Algo_Seminar_Hardness_MLWE_short_distributions.pdf)  
 
 
 
 ---
 # Teaching
 
+**2022**  
+
+- **Lattice-Based Cryptography, Rennes 1 University, CyberSchool**
+Exercise Sessions in lattice-based cryptography for Master 2 level students from Rennes 1 University and CyberSchool.  
 
 **2018**  
 
 - **Information Systems and Programming, CentraleSupélec**  
-Co-construction of the course as part of the first year curriculum of CentraleSupélec engineering school. Practical exercises in information systems and networks and Python programming labs. Introduction to information security.
+Co-construction of the course as part of the first year curriculum of CentraleSupélec engineering school. Practical exercises in information systems and networks and Python programming labs. Introduction to information security.  
+
 
 
 ---
