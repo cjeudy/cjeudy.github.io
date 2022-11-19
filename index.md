@@ -50,7 +50,7 @@ In the proceedings of [Asiacrypt 2020](https://asiacrypt.iacr.org/2020/).
 
 - 19/05/2021: _On the Hardness of Module-LWE with Binary Secret_. At RSA Conference 2021 - Cryptographer's Track (online). [Slides](/assets/slides/2021-05-19_CTRSA_Hardness_of_binMLWE.pdf), [Video](https://www.youtube.com/watch?v=AfDskDKEzwg&t=1412s)  
 - 11/04/2022: _Entropic Hardness of Module-LWE from Module-NTRU_. At [Journées C2](https://jc2-2022.inria.fr/fr/) 2022, Hendaye, France. [Slides](/assets/slides/2022-04-11_JC2_Entropic_Hardness_M-LWE_from_M-NTRU.pdf)  
-- 11/10/2022: _On the Hardness of Module Learning With Errors with Short Distributions_. At Caen University, Algo Seminar. [Slides](assets/slides/2022-10-11_Caen_Algo_Seminar_Hardness_MLWE_short_distributions.pdf)  
+- 11/10/2022: _On the Hardness of Module Learning With Errors with Short Distributions_. At Caen University, Algo Seminar. [Slides](/assets/slides/2022-10-11_Caen_Algo_Seminar_Hardness_MLWE_short_distributions.pdf)  
 
 
 
