@@ -59,7 +59,7 @@ In the proceedings of [Asiacrypt 2020](https://asiacrypt.iacr.org/2020/).
 
 **2022**  
 
-- **Lattice-Based Cryptography, Rennes 1 University, CyberSchool**
+- **Lattice-Based Cryptography, Rennes 1 University, CyberSchool**  
 Exercise Sessions in lattice-based cryptography for Master 2 level students from Rennes 1 University and CyberSchool.  
 
 **2018**  
