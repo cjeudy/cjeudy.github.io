@@ -5,7 +5,7 @@ permalink: /papers/towards_classical_hardness_of_module-lwe_the_linear_rank_case
 ---
 
 Co-authored with [Katharina Boudgoust](https://katinkabou.github.io/), [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), and [Weiqiang Wen](http://people.irisa.fr/Weiqiang.Wen/).   
-In the proceedings of [Asiacrypt 2020](https://asiacrypt.iacr.org/2020/).  
+In the proceedings of [Asiacrypt 2020](https://link.springer.com/chapter/10.1007/978-3-030-64834-3_10).  
 
 Get paper on [IACR ePrint](https://eprint.iacr.org/2020/1020) or [here](/assets/pub/BJRW20_Towards_Classical_Hardness_MLWE_Linear_Rank.pdf)
 

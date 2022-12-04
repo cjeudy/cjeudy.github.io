@@ -5,7 +5,7 @@ permalink: /papers/on_the_hardness_of_module-lwe_with_binary_secret
 ---
 
 Co-authored with [Katharina Boudgoust](https://katinkabou.github.io/), [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), and [Weiqiang Wen](http://people.irisa.fr/Weiqiang.Wen/).   
-In the proceedings of [CT-RSA 2021](https://sites.google.com/site/ctrsa2021/).  
+In the proceedings of [CT-RSA 2021](https://link.springer.com/chapter/10.1007/978-3-030-75539-3_21).  
 
 Get paper on [IACR ePrint](https://eprint.iacr.org/2021/265) or [here](/assets/pub/BJRW21_Hardness_bin-MLWE.pdf)
 
