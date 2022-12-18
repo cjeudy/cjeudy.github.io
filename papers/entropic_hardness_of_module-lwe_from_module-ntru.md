@@ -5,7 +5,7 @@ permalink: /papers/entropic_hardness_of_module-lwe_from_module-ntru
 ---
 
 Co-authored with [Katharina Boudgoust](https://katinkabou.github.io/), [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), and [Weiqiang Wen](http://people.irisa.fr/Weiqiang.Wen/).    
-To appear in [Indocrypt 2022](https://www.tcgcrest.org/indocrypt-2022-accepted-papers/).  
+In the proceedings of [Indocrypt 2022](https://www.tcgcrest.org/indocrypt-2022-accepted-papers/).  
 
 Get paper on [IACR ePrint](https://eprint.iacr.org/2022/245) or [here](/assets/pub/BJRW22_Entropic_Hardness_MLWE_from_MNTRU.pdf)
 
