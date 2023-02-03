@@ -19,7 +19,7 @@ Before that, in 2017, I completed my two years of preparatory classes in Mathema
 
 **2022**
 
-- **Lattice-Based Signature with Efficient Protocols, Revisited.** [Paper](/papers/lattice-based_signature_with_efficient_protocols_revisited)  
+- **Lattice Signature with Efficient Protocols, Application to Anonymous Credentials.** [Paper](/papers/lattice_signature_with_efficient_protocols_application_to_anonymous_credentials)  
 Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226)  
 Only available on [IACR ePrint](https://eprint.iacr.org/2022/509) at the moment.  
 
