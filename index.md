@@ -17,6 +17,12 @@ Before that, in 2017, I completed my two years of preparatory classes in Mathema
 ---
 # Publications
 
+**2023**
+
+- **Revisiting Preimage Sampling for Lattices.** [Paper](/papers/revisiting_preimage_sampling_for_lattices)  
+Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226)  
+Only available on [IACR ePrint](https://eprint.iacr.org/2023/446) at the moment.  
+
 **2022**
 
 - **Lattice Signature with Efficient Protocols, Application to Anonymous Credentials.** [Paper](/papers/lattice_signature_with_efficient_protocols_application_to_anonymous_credentials)  
