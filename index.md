@@ -27,7 +27,7 @@ Only available on [IACR ePrint](https://eprint.iacr.org/2023/446) at the moment.
 
 - **Lattice Signature with Efficient Protocols, Application to Anonymous Credentials.** [Paper](/papers/lattice_signature_with_efficient_protocols_application_to_anonymous_credentials)  
 Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226)  
-Only available on [IACR ePrint](https://eprint.iacr.org/2022/509) at the moment.  
+To appear at [Crypto 2023](https://crypto.iacr.org/2023/).  
 
 - **On the Hardness of Module Learning With Errors with Short Distributions.** [Paper](/papers/on_the_hardness_of_module_learning_with_errors_with_short_distributions)  
 [Katharina Boudgoust](https://katinkabou.github.io/), Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Weiqiang Wen](http://people.irisa.fr/Weiqiang.Wen/)  
