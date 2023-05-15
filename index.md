@@ -54,8 +54,9 @@ In the proceedings of [Asiacrypt 2020](https://asiacrypt.iacr.org/2020/).
 # Talks
 
 - 13/03/2023: _On the Secret Distributions in Module Learning With Errors_. At Florida Atlantic University, Crypto Café Seminars (online). [Slides](/assets/slides/2023-03-13_FAU_Crypto_Seminar_Secret_Distribution_in_MLWE.pdf), [Video](https://fau-edu.zoom.us/rec/play/8qr6QhrZCtnEzqX0GBu4UgU1Z4HqeA2aOcOqDRNlM4rXygXVT5h4GijIpomKVYy-cAJLZvOZqOsx1Wte.PFYZkwZSibwypOJ5?continueMode=true&_x_zm_rtaid=1GMCUJfxTc6EC_p7SW4Jqw.1678737866041.2159b7f1c478dfeaf5a900382cc7b3e0&_x_zm_rhtaid=20)
+- 13/03/2023: _On the Secret Distributions in Module Learning With Errors_. At Aarhus University, Aarhus Crypto Seminar, Aarhus, Denmark. [Slides](/assets/slides/2023-02-27_Aarhus_Crypto_Seminar_Lattice_SEP_and_AC.pdf)
 - 12/12/2022: _Entropic Hardness of Module-LWE from Module-NTRU_. At [Indocrypt 2022](https://www.tcgcrest.org/indocrypt-2022/), Kolkata, India. [Slides](/assets/slides/2022-12-12_Indocrypt_Entropic_Hardness_M-LWE_from_M-NTRU.pdf), [Video](https://www.youtube.com/watch?v=Cjs7pSXTzHw&t=1618s)  
-- 11/10/2022: _On the Hardness of Module Learning With Errors with Short Distributions_. At Caen University, Algo Seminar. [Slides](/assets/slides/2022-10-11_Caen_Algo_Seminar_Hardness_MLWE_short_distributions.pdf)  
+- 11/10/2022: _On the Hardness of Module Learning With Errors with Short Distributions_. At Caen University, Algo Seminar, Caen, France. [Slides](/assets/slides/2022-10-11_Caen_Algo_Seminar_Hardness_MLWE_short_distributions.pdf)  
 - 11/04/2022: _Entropic Hardness of Module-LWE from Module-NTRU_. At [Journées C2](https://jc2-2022.inria.fr/fr/) 2022, Hendaye, France. [Slides](/assets/slides/2022-04-11_JC2_Entropic_Hardness_M-LWE_from_M-NTRU.pdf)  
 - 19/05/2021: _On the Hardness of Module-LWE with Binary Secret_. At RSA Conference 2021 - Cryptographer's Track (online). [Slides](/assets/slides/2021-05-19_CTRSA_Hardness_of_binMLWE.pdf), [Video](https://www.youtube.com/watch?v=AfDskDKEzwg&t=1412s)  
 
