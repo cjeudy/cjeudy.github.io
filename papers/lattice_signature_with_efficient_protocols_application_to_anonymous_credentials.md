@@ -6,7 +6,9 @@ permalink: /papers/lattice_signature_with_efficient_protocols_application_to_ano
 
 Co-authored with [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), and [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226).    
 
-To appear at [Crypto 2023](https://crypto.iacr.org/2023/). Get paper on [IACR ePrint](https://eprint.iacr.org/2022/509)
+In the proceedings of [Crypto 2023](https://link.springer.com/chapter/10.1007/978-3-031-38545-2_12).  
+
+Get paper on [IACR ePrint](https://eprint.iacr.org/2022/509) or [here](/assets/pub/JRS23_Lattice_SEP_and_AC.pdf)
 
 ## Abstract
 > Digital signature is an essential primitive in cryptography, which can be used as the digital analogue of handwritten signatures but also as a building block for more complex systems. In the latter case, signatures with specific features are needed, so as to smoothly interact with the other components of the systems, such as zero-knowledge proofs. This has given rise to so-called signatures with efficient protocols, a versatile tool that has been used in countless applications. Designing such signatures is however quite difficult, in particular if one wishes to withstand quantum computing. We are indeed aware of only one post-quantum construction, proposed by Libert et al. at Asiacrypt’16, yielding very large signatures and proofs.  
