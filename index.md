@@ -66,7 +66,7 @@ In the proceedings of [Asiacrypt 2020](https://asiacrypt.iacr.org/2020/).
 
 **Dissemination**  
 
-- **Lattice-Based Cryptography** [Dissemination paper](/papers/lattice-based_cryptography)  
+- **Lattice-Based Cryptography.** [Dissemination paper](/papers/lattice-based_cryptography)  
 Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/)  
 Published in [Techniques de l'Ingénieur](https://www.techniques-ingenieur.fr/).  
 
