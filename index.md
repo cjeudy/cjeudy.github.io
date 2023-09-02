@@ -51,7 +51,9 @@ In the proceedings of [Asiacrypt 2020](https://asiacrypt.iacr.org/2020/).
 
 
 ---
-# Talks
+# Communications
+
+**Talks**  
 
 - 22/08/2023: _Lattice Signature with Efficient Protocols, Application to Anonymous Credentials_. At [Crypto 2023](https://crypto.iacr.org/2023/), Santa Barbara, California, United States. [Slides](/assets/slides/2023-08-22_Crypto_Lattice_SEP_and_AC.pdf), [Video](https://www.youtube.com/watch?v=wm2qJyaxyRw)
 - 01/06/2023: _Lattice Signature with Efficient Protocols, Application to Anonymous Credentials_. At IRISA, Capslock Seminar, Rennes, France.
@@ -62,6 +64,11 @@ In the proceedings of [Asiacrypt 2020](https://asiacrypt.iacr.org/2020/).
 - 11/04/2022: _Entropic Hardness of Module-LWE from Module-NTRU_. At [Journées C2](https://jc2-2022.inria.fr/fr/) 2022, Hendaye, France. [Slides](/assets/slides/2022-04-11_JC2_Entropic_Hardness_M-LWE_from_M-NTRU.pdf)  
 - 19/05/2021: _On the Hardness of Module-LWE with Binary Secret_. At RSA Conference 2021 - Cryptographer's Track (online). [Slides](/assets/slides/2021-05-19_CTRSA_Hardness_of_binMLWE.pdf), [Video](https://www.youtube.com/watch?v=AfDskDKEzwg&t=1412s)  
 
+**Dissemination**
+
+- **Lattice-Based Cryptography** [Dissemination paper](/papers/lattice-based_cryptography)  
+Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/)  
+Published in [Techniques de l'Ingénieur](https://www.techniques-ingenieur.fr/).  
 
 
 ---
