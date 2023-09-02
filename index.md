@@ -51,7 +51,7 @@ In the proceedings of [Asiacrypt 2020](https://asiacrypt.iacr.org/2020/).
 
 
 ---
-# Communications
+# Talks
 
 **Talks**  
 
