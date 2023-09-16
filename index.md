@@ -6,7 +6,9 @@ cover: true
 permalink: /
 ---
 
-Since October 2021, I am a PhD student in the [Applied Cryptography Group](https://crypto.orange-labs.fr/) at Orange Labs and the [CAPSULE team](https://team.inria.fr/capsule/) at INRIA/IRISA in Rennes, under the supervision of [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/) (IRISA), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226) (Orange Labs) and [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) (IRISA). I am working on post-quantum cryptography, and more precisely on designing advanced lattice-based signature schemes. Feel free to check out my quick introduction [video](videos/a_quick_intro_to_lattice_cryptography) on lattice cryptography.
+I am a research engineer at Orange Innovation in the [Applied Cryptography Group](https://crypto.orange-labs.fr/). I am working on post-quantum cryptography, and more precisely on designing advanced lattice-based signature schemes for privacy applications. Feel free to check out my quick introduction [video](videos/a_quick_intro_to_lattice_cryptography) on lattice cryptography.
+
+I am also completing a PhD on the subject which started in October 2021. It is done in collaboration with the [CAPSULE team](https://team.inria.fr/capsule/) at INRIA/IRISA in Rennes, and under the supervision of [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/) (IRISA), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226) (Orange Labs) and [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) (IRISA). 
 
 Before that, I was a research intern (Jan. - Jul. 2020 & Apr. - Sep. 2021) supervised by [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/). I was working on the computational assumptions underlying lattice-based cryptosystems, namely the Module Learning With Errors problem.  
 
@@ -90,12 +92,11 @@ Co-construction of the course as part of the first year curriculum of CentraleSu
 # Contact
 
 Corentin JEUDY  
-Office F435, IRISA, Rennes  
-Campus universitaire de Beaulieu  
-263 Avenue du Général Leclerc  
-35042 Rennes Cedex  
+Orange Innovation    
+4 rue du Clos Courtel  
+35510 Cesson-Sévigné  
 France   
 
-**Affiliation**: Orange Labs, Univ Rennes, CNRS, IRISA
+**Affiliation**: Orange Labs, Applied Crypto Group & Univ Rennes, CNRS, IRISA
 
 <!-- <span class="icon-mail"></span> --> **Email**: corentin <!-- edjkzzoi"_8 -->&bull; jeudy [a<!-- ejhiekbdk -->t] irisa<!-- zmzkpzoç038UHOEdk --> &bull; fr
