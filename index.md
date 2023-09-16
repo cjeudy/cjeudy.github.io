@@ -99,4 +99,4 @@ France
 
 **Affiliation**: Orange Labs, Applied Crypto Group & Univ Rennes, CNRS, IRISA
 
-<!-- <span class="icon-mail"></span> --> **Email**: corentin <!-- edjkzzoi"_8 -->&bull; jeudy [a<!-- ejhiekbdk -->t] irisa<!-- zmzkpzoç038UHOEdk --> &bull; fr
+<!-- <span class="icon-mail"></span> --> **Email**: corentin <!-- edjkzzoi"_8 -->&bull; jeudy [a<!-- ejhiekbdk -->t] orange<!-- zmzkpzoç038UHOEdk --> &bull; com
