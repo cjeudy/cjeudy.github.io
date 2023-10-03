@@ -57,6 +57,7 @@ In the proceedings of [Asiacrypt 2020](https://asiacrypt.iacr.org/2020/).
 
 **Talks**  
 
+- 02/10/2023: _Lattice Signature with Efficient Protocols, Application to Anonymous Credentials_. At Journée Crypto NormaStic 2023, Caen, France. [Slides](/assets/slides/2023-10-02_Normastic_Seminar_Lattice_SEP_and_AC.pdf)
 - 22/08/2023: _Lattice Signature with Efficient Protocols, Application to Anonymous Credentials_. At [Crypto 2023](https://crypto.iacr.org/2023/), Santa Barbara, California, United States. [Slides](/assets/slides/2023-08-22_Crypto_Lattice_SEP_and_AC.pdf), [Video](https://www.youtube.com/watch?v=wm2qJyaxyRw)
 - 01/06/2023: _Lattice Signature with Efficient Protocols, Application to Anonymous Credentials_. At IRISA, Capslock Seminar, Rennes, France.
 - 13/03/2023: _On the Secret Distributions in Module Learning With Errors_. At Florida Atlantic University, Crypto Café Seminars (online). [Slides](/assets/slides/2023-03-13_FAU_Crypto_Seminar_Secret_Distribution_in_MLWE.pdf), [Video](https://fau-edu.zoom.us/rec/play/8qr6QhrZCtnEzqX0GBu4UgU1Z4HqeA2aOcOqDRNlM4rXygXVT5h4GijIpomKVYy-cAJLZvOZqOsx1Wte.PFYZkwZSibwypOJ5?continueMode=true&_x_zm_rtaid=1GMCUJfxTc6EC_p7SW4Jqw.1678737866041.2159b7f1c478dfeaf5a900382cc7b3e0&_x_zm_rhtaid=20)
