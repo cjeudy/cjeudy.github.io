@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Phoenix: Hash-and-Sign with Aborts from Lattice Gadgets"
-permalink: /papers/pheonix_hash_and_sign_with_aborts_from_lattice_gadgets
+permalink: /papers/phoenix_hash_and_sign_with_aborts_from_lattice_gadgets
 ---
 
 Co-authored with [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), and [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226).    
