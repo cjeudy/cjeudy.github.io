@@ -6,7 +6,9 @@ permalink: /papers/phoenix_hash_and_sign_with_aborts_from_lattice_gadgets
 
 Co-authored with [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), and [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226).    
 
-Get paper on [IACR ePrint](https://eprint.iacr.org/2023/446)
+To appear at [PQCrypto 2024](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024).  
+
+Get paper on [IACR ePrint](https://eprint.iacr.org/2023/446) or [here](/assets/pub/JRS24_phoenix_hash_and_sign_with_aborts_from_lattice_gadgets.pdf)  
 
 ## Abstract
 > Preimage sampling is a fundamental tool in lattice-based cryptography, and its performance directly impacts that of the cryptographic mechanisms relying on it. In 2012, Micciancio and Peikert proposed a new way of generating trapdoors (and an associated preimage sampling procedure) with very interesting features. Unfortunately, in some applications such as digital signatures, the performance may not be as competitive as other approaches like Fiat-Shamir with Aborts. In an effort to improve preimage sampling for Micciancio-Peikert (MP) trapdoors, Lyubashevsky and Wichs (LW) introduced a new sampler which leverages rejection sampling but suffers from strong parameter requirements that hampered performance. As a consequence it seemed to be restricted to theoretical applications and has not been, to our knowledge, considered for real-world applications. 

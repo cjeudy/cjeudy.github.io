@@ -30,7 +30,7 @@ Only available on [IACR ePrint](https://eprint.iacr.org/2024/131) at the moment.
 
 - **Phoenix: Hash-and-Sign with Aborts from Lattice Gadgets.** [Paper](/papers/phoenix_hash_and_sign_with_aborts_from_lattice_gadgets)  
 Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226)  
-Only available on [IACR ePrint](https://eprint.iacr.org/2023/446) at the moment.  
+To appear at [PQCrypto 2024](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024).  
 
 **2022**
 
