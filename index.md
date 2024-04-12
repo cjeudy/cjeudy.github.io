@@ -56,8 +56,11 @@ In the proceedings of [CT-RSA 2021](https://sites.google.com/site/ctrsa2021/).
 
 - **Towards Classical Hardness of Module-LWE: The Linear Rank Case.** [Paper](papers/towards_classical_hardness_of_module-lwe_the_linear_rank_case)   
 [Katharina Boudgoust](https://katinkabou.github.io/), Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Weiqiang Wen](http://people.irisa.fr/Weiqiang.Wen/)  
-In the proceedings of [Asiacrypt 2020](https://asiacrypt.iacr.org/2020/).
+In the proceedings of [Asiacrypt 2020](https://asiacrypt.iacr.org/2020/).  
 
+**Reviewing**
+
+Eurocrypt'22, ACISP'22, CCS'22, PKC'23, Eurocrypt'23, CCS'23, Eurocrypt'24  
 
 ---
 # Talks
