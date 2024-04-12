@@ -4,7 +4,9 @@ title: "Practical Post-Quantum Signatures for Privacy"
 permalink: /papers/practical_post_quantum_signatures_for_privacy
 ---
 
-[Sven Argo](https://informatik.rub.de/seceng/personen/argo/), [Tim Güneysu](https://informatik.rub.de/seceng/personen/gueneysu/), [Georg Land](https://georg.land/), [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), and [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226).    
+[Sven Argo](https://informatik.rub.de/seceng/personen/argo/), [Tim Güneysu](https://informatik.rub.de/seceng/personen/gueneysu/), [Georg Land](https://georg.land/), [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), and [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226). 
+
+To appear at [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html).     
 
 Get paper on [IACR ePrint](https://eprint.iacr.org/2024/131). The associated implementation is available [here](https://github.com/Chair-for-Security-Engineering/lattice-anonymous-credentials) and is distributed under [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.html).
 

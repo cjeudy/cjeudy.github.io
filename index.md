@@ -23,7 +23,7 @@ Before that, in 2017, I completed my two years of preparatory classes in Mathema
 
 - **Practical Post-Quantum Signatures for Privacy.** [Paper](/papers/practical_post_quantum_signatures_for_privacy)  
 [Sven Argo](https://informatik.rub.de/seceng/personen/argo/), [Tim Güneysu](https://informatik.rub.de/seceng/personen/gueneysu/), Corentin Jeudy, [Georg Land](https://georg.land/), [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226)  
-Only available on [IACR ePrint](https://eprint.iacr.org/2024/131) at the moment.  
+To appear at [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html).  
 
 
 **2023**
