@@ -2,8 +2,6 @@
 layout: page
 title: "Towards Classical Hardness of Module-LWE: The Linear Rank Case"
 permalink: /papers/towards_classical_hardness_of_module-lwe_the_linear_rank_case
-buttons:
-	pdf: /assets/pub/BJRW20_Towards_Classical_Hardness_MLWE_Linear_Rank.pdf
 ---
 
 Co-authored with [Katharina Boudgoust](https://katinkabou.github.io/), [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), and [Weiqiang Wen](http://people.irisa.fr/Weiqiang.Wen/).   
