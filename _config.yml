@@ -142,7 +142,7 @@ hydejack:
   no_break_layout:     true
 
   # Set to `true` to disable the dynamic Table of Contents on large screens.
-  no_toc:              false
+  no_toc:              true
 
   # When set to `true`, will not extend the content in the "third column" on large screens.
   # Instead, all content will remains within the center column.
@@ -175,6 +175,19 @@ hydejack:
   # Frequent consumers of online content will know that nothing devalues a post like
   # seeing an old date. 
   hide_dates:          false
+
+  dark_mode:
+    # Set to `true` to always use the dark theme.
+    always:            false
+
+    # Set to `true` to use the dark theme based on visitors' local time.
+    dynamic:           true
+    sunrise:           6
+    sunset:            20
+
+    # Set to `true` to allow visitors to switch between light and dark mode.
+    icon:              true
+
 
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
