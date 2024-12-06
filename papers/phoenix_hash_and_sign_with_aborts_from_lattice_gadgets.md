@@ -6,7 +6,7 @@ permalink: /papers/phoenix_hash_and_sign_with_aborts_from_lattice_gadgets
 
 Co-authored with [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), and [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226).    
 
-To appear at [PQCrypto 2024](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024). Already available on [IACR ePrint](https://eprint.iacr.org/2023/446).   
+In the proceedings of [PQCrypto 2024](https://link.springer.com/chapter/10.1007/978-3-031-62743-9_9). Also available on [IACR ePrint](https://eprint.iacr.org/2023/446).   
 
 <a href="/assets/pub/JRS24_phoenix_hash_and_sign_with_aborts_from_lattice_gadgets.pdf" target="_blank" style="text-decoration: none;"><button class="button" style="display: inline-block; border-radius: 25px; background-color: #337076; border: none; color: #FFFFFF; text-align: center; padding: 10px 10px; width: 70px; height:25px; transition: all 0.5s; cursor: pointer; margin: 5px; line-height: 7px;" onmouseover="this.style.backgroundColor='#2DA1AD'; this.querySelector('span').style.paddingRight = '16px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">PDF <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a>   
 

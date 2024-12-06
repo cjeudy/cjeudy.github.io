@@ -6,7 +6,9 @@ permalink: /papers/practical_post_quantum_signatures_for_privacy
 
 Co-authored with [Sven Argo](https://informatik.rub.de/seceng/personen/argo/), [Tim Güneysu](https://informatik.rub.de/seceng/personen/gueneysu/), [Georg Land](https://georg.land/), [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), and [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226). 
 
-To appear at [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html). Already available on [IACR ePrint](https://eprint.iacr.org/2024/131).  
+In the proceedings of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html) (proceedings yet to be published). Also available on [IACR ePrint](https://eprint.iacr.org/2024/131).  
+
+<a href="/assets/pub/AGJLRS24_Pratical_Post-Quantum_Signatures_for_Privacy.pdf" target="_blank" style="text-decoration: none;"><button class="button" style="display: inline-block; border-radius: 25px; background-color: #337076; border: none; color: #FFFFFF; text-align: center; padding: 10px 10px; width: 70px; height:25px; transition: all 0.5s; cursor: pointer; margin: 5px; line-height: 7px;" onmouseover="this.style.backgroundColor='#2DA1AD'; this.querySelector('span').style.paddingRight = '16px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">PDF <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a>  
 
 The associated implementation is available [here](https://github.com/Chair-for-Security-Engineering/lattice-anonymous-credentials) and is distributed under [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.html).
 

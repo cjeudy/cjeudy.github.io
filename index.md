@@ -31,7 +31,7 @@ Only available on [IACR ePrint](https://eprint.iacr.org/2024/1289) at the moment
 
 - **Practical Post-Quantum Signatures for Privacy.** [Paper](/papers/practical_post_quantum_signatures_for_privacy)  
 [Sven Argo](https://informatik.rub.de/seceng/personen/argo/), [Tim Güneysu](https://informatik.rub.de/seceng/personen/gueneysu/), Corentin Jeudy, [Georg Land](https://georg.land/), [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226)  
-To appear at [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html).  
+In the proceedings of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html) (proceedings yet to be published).  
 
 - **Phoenix: Hash-and-Sign with Aborts from Lattice Gadgets.** [Paper](/papers/phoenix_hash_and_sign_with_aborts_from_lattice_gadgets)  
 Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226)  
@@ -67,12 +67,15 @@ In the proceedings of [Asiacrypt 2020](https://asiacrypt.iacr.org/2020/).
 
 **Reviewing**
 
-Eurocrypt'22, ACISP'22, CCS'22, PKC'23, Eurocrypt'23, CCS'23, Eurocrypt'24  
+Eurocrypt'22, ACISP'22, CCS'22, PKC'23, Eurocrypt'23, CCS'23, Eurocrypt'24, Eurocrypt'25  
 
 ---
 # Talks
 
 **Talks**  
+
+- 15/10/2024: _Practical Post-Quantum Signatures for Privacy_. At [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html), Salt Lake City, Utah, USA. <a href="/assets/slides/2024-10-15_CCS_Practical_Post-Quantum_Signatures_for_Privacy.pdf" target="_blank" style="text-decoration: none;"><button class="button" style="display: inline-block; border-radius: 25px; background-color: #337076; border: none; color: #FFFFFF; text-align: center; padding: 10px 10px; width: 70px; height:25px; transition: all 0.5s; cursor: pointer; margin: 5px; line-height: 7px;" onmouseover="this.style.backgroundColor='#2DA1AD'; this.querySelector('span').style.paddingRight = '12px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">Slides <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a> 
+<!--  -->
 
 - 13/06/2024: _Phoenix: Hash-and-Sign with Aborts from Lattice Gadgets_. At [PQCrypto 2024](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024), Oxford, United Kingdom. <a href="/assets/slides/2024-06-13_PQCrypto_Phoenix_Hash_and_Sign_with_Aborts_from_Lattice_Gadgets.pdf" target="_blank" style="text-decoration: none;"><button class="button" style="display: inline-block; border-radius: 25px; background-color: #337076; border: none; color: #FFFFFF; text-align: center; padding: 10px 10px; width: 70px; height:25px; transition: all 0.5s; cursor: pointer; margin: 5px; line-height: 7px;" onmouseover="this.style.backgroundColor='#2DA1AD'; this.querySelector('span').style.paddingRight = '12px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">Slides <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a> <a href="https://www.youtube.com/watch?v=qWk_-rrpdMM&list=PLolju1GaKd02wOWcWVvsITa4FY8YGrMxD&index=17" target="_blank" style="text-decoration: none;"><button class="button" style="display: inline-block; border-radius: 25px; background-color: #337076; border: none; color: #FFFFFF; text-align: center; padding: 10px 10px; width: 70px; height:25px; transition: all 0.5s; cursor: pointer; margin: 5px; line-height: 7px;" onmouseover="this.style.backgroundColor='#2DA1AD'; this.querySelector('span').style.paddingRight = '12px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">Video <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a>  
 <!--  -->
