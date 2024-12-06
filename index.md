@@ -21,6 +21,10 @@ Before that, in 2017, I completed my two years of preparatory classes in Mathema
 
 **2024**
 
+- **Worst-Case Lattice Sampler with Truncated Gadgets and Applications.** [paper](/papers/worst-case_lattice_sampler_with_truncated_gadgets_and_applications)  
+Corentin Jeudy, [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226)  
+Only available on [IACR ePrint](https://eprint.iacr.org/2024/1952) at the moment.  
+
 - **Improved Lattice Blind Signatures from Recycled Entropy.** [Paper](/papers/improved_lattice_blind_signatures_from_recycled_entropy)  
 Corentin Jeudy, [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226)  
 Only available on [IACR ePrint](https://eprint.iacr.org/2024/1289) at the moment.  
@@ -29,14 +33,11 @@ Only available on [IACR ePrint](https://eprint.iacr.org/2024/1289) at the moment
 [Sven Argo](https://informatik.rub.de/seceng/personen/argo/), [Tim Güneysu](https://informatik.rub.de/seceng/personen/gueneysu/), Corentin Jeudy, [Georg Land](https://georg.land/), [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226)  
 To appear at [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html).  
 
-
-**2023**
-
 - **Phoenix: Hash-and-Sign with Aborts from Lattice Gadgets.** [Paper](/papers/phoenix_hash_and_sign_with_aborts_from_lattice_gadgets)  
 Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226)  
 In the proceedings of [PQCrypto 2024](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024).  
 
-**2022**
+**2023**
 
 - **Lattice Signature with Efficient Protocols, Application to Anonymous Credentials.** [Paper](/papers/lattice_signature_with_efficient_protocols_application_to_anonymous_credentials)  
 Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226)  
@@ -45,6 +46,8 @@ In the proceedings of [Crypto 2023](https://crypto.iacr.org/2023/).
 - **On the Hardness of Module Learning With Errors with Short Distributions.** [Paper](/papers/on_the_hardness_of_module_learning_with_errors_with_short_distributions)  
 [Katharina Boudgoust](https://katinkabou.github.io/), Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Weiqiang Wen](http://people.irisa.fr/Weiqiang.Wen/)  
 Published in [IACR Journal of Cryptology](https://www.springer.com/journal/145).  
+
+**2022**
 
 - **Entropic Hardness of Module-LWE from Module-NTRU.** [Paper](/papers/entropic_hardness_of_module-lwe_from_module-ntru)  
 [Katharina Boudgoust](https://katinkabou.github.io/), Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Weiqiang Wen](http://people.irisa.fr/Weiqiang.Wen/)  
