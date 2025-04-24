@@ -46,8 +46,7 @@
 
 <script type="text/javascript">
   function togglePopover(event, popoverId) {
-    window.open('https://crypto.iacr.org/2025/papersubmission.php', '_blank').focus();
-    /*event.stopPropagation();
+    event.stopPropagation();
     const popover = document.getElementById(popoverId);
 
     // Hide all others first
@@ -61,7 +60,7 @@
       const rect = event.target.getBoundingClientRect();
       popover.style.top = (window.scrollY + rect.bottom + 10) + "px";
       popover.style.left = (window.scrollX + rect.left) + "px";
-    }*/
+    }
   }
 
   function copyText(textId) {
