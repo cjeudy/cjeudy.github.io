@@ -44,8 +44,7 @@
   .start();
 </script>
 
-<script>
-  // Toggle specific popover
+<script type="text/javascript">
   function togglePopover(event, popoverId) {
     window.open('https://crypto.iacr.org/2025/papersubmission.php', '_blank').focus();
     /*event.stopPropagation();
@@ -65,7 +64,6 @@
     }*/
   }
 
-  // Copy and auto-close
   function copyText(textId) {
     const text = document.getElementById(textId).innerText;
     navigator.clipboard.writeText(text).then(() => {
@@ -76,12 +74,11 @@
     });
   }
 
-  // Close all popovers
   function closeAllPopovers() {
     document.querySelectorAll('.popover').forEach(p => p.style.display = 'none');
   }
 
-  // Auto-close on outside click
+  /* Auto-close on outside click */
   document.addEventListener('click', function(event) {
     const isPopover = event.target.closest('.popover');
     const isButton = event.target.tagName === "BUTTON";
