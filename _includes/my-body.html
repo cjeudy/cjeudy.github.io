@@ -44,7 +44,7 @@
   .start();
 </script>
 
-<script type="text/javascript">
+<!-- <script type="text/javascript">
   function togglePopover(event, popoverId) {
     event.stopPropagation();
     const popover = document.getElementById(popoverId);
@@ -85,4 +85,13 @@
       closeAllPopovers();
     }
   });
-</script>
+</script> -->
+
+<!-- {% raw %}
+<button onclick="togglePopover(event, 'popover2')">Show Info 2</button> 
+
+<div id="popover2" class="popover" style="display:none; position:absolute; background:#fff; border:1px solid #ccc; padding:1em; border-radius:8px; box-shadow:0 4px 10px rgba(0,0,0,0.1); z-index:1000;"> 
+<p id="text2">Another piece of custom text here!</p> 
+<button onclick="copyText('text2')">Copy</button> 
+</div>  
+{% endraw %} -->
