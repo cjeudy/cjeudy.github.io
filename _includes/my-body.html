@@ -43,3 +43,49 @@
   .pauseFor(6000)
   .start();
 </script>
+
+<script>
+  // Toggle specific popover
+  function togglePopover(event, popoverId) {
+    event.stopPropagation();
+    const popover = document.getElementById(popoverId);
+
+    // Hide all others first
+    document.querySelectorAll('.popover').forEach(p => p.style.display = 'none');
+
+    // Show or hide this one
+    if (popover.style.display === "block") {
+      popover.style.display = "none";
+    } else {
+      popover.style.display = "block";
+      const rect = event.target.getBoundingClientRect();
+      popover.style.top = (window.scrollY + rect.bottom + 10) + "px";
+      popover.style.left = (window.scrollX + rect.left) + "px";
+    }
+  }
+
+  // Copy and auto-close
+  function copyText(textId) {
+    const text = document.getElementById(textId).innerText;
+    navigator.clipboard.writeText(text).then(() => {
+      alert("Copied to clipboard!");
+      closeAllPopovers();
+    }).catch(err => {
+      alert("Failed to copy: " + err);
+    });
+  }
+
+  // Close all popovers
+  function closeAllPopovers() {
+    document.querySelectorAll('.popover').forEach(p => p.style.display = 'none');
+  }
+
+  // Auto-close on outside click
+  document.addEventListener('click', function(event) {
+    const isPopover = event.target.closest('.popover');
+    const isButton = event.target.tagName === "BUTTON";
+    if (!isPopover && !isButton) {
+      closeAllPopovers();
+    }
+  });
+</script>

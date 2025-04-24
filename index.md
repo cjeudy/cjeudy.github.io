@@ -67,7 +67,7 @@ In the proceedings of [Asiacrypt 2020](https://asiacrypt.iacr.org/2020/).
 
 **Reviewing**
 
-Eurocrypt'22, ACISP'22, CCS'22, PKC'23, Eurocrypt'23, CCS'23, Eurocrypt'24, Eurocrypt'25 <button onclick="togglePopover(event, 'popover2')">Show Info 2</button><div id="popover2" class="popover" style="display:none; position:absolute; background:#fff; border:1px solid #ccc; padding:1em; border-radius:8px; box-shadow:0 4px 10px rgba(0,0,0,0.1); z-index:1000;"><p id="text2">Another piece of custom text here!</p><button onclick="copyText('text2')">Copy</button></div>  
+Eurocrypt'22, ACISP'22, CCS'22, PKC'23, Eurocrypt'23, CCS'23, Eurocrypt'24, Eurocrypt'25 <button onclick="togglePopover(event, 'popover2')">Show Info 2</button> <div id="popover2" class="popover" style="display:none; position:absolute; background:#fff; border:1px solid #ccc; padding:1em; border-radius:8px; box-shadow:0 4px 10px rgba(0,0,0,0.1); z-index:1000;"> <p id="text2">Another piece of custom text here!</p> <button onclick="copyText('text2')">Copy</button> </div>  
 
 ---
 # Talks
