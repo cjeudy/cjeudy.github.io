@@ -74,7 +74,37 @@ Eurocrypt'22, ACISP'22, CCS'22, PKC'23, Eurocrypt'23, CCS'23, Eurocrypt'24, Euro
 
 **Talks**  
 
-- 19/03/2025: _Worst-Case Lattice Sampler with Truncated Gadgets and Applications_. At [London-ish Lattice Coding & Crypto Meeting](https://londonishlatticemeetings.wordpress.com/19-march-2025-lattice-coding-crypto-meeting/), Royal Holloway University of London, Egham, England. <a href="/assets/slides/2025-03-19_RHUL_Worst-Case_Lattice_Sampler_Truncated_Gadgets_and_Applications.pdf" target="_blank" style="text-decoration: none;"><button class="button" style="display: inline-block; border-radius: 25px; background-color: #337076; border: none; color: #FFFFFF; text-align: center; padding: 10px 10px; width: 70px; height:25px; transition: all 0.5s; cursor: pointer; margin: 5px; line-height: 7px;" onmouseover="this.style.backgroundColor='#2DA1AD'; this.querySelector('span').style.paddingRight = '12px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">Slides <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a> 
+- 19/03/2025: _Worst-Case Lattice Sampler with Truncated Gadgets and Applications_. At [London-ish Lattice Coding & Crypto Meeting](https://londonishlatticemeetings.wordpress.com/19-march-2025-lattice-coding-crypto-meeting/), Royal Holloway University of London, Egham, England. <a href="/assets/slides/2025-03-19_RHUL_Worst-Case_Lattice_Sampler_Truncated_Gadgets_and_Applications.pdf" target="_blank" style="text-decoration: none;"><button class="button" style="display: inline-block; border-radius: 25px; background-color: #337076; border: none; color: #FFFFFF; text-align: center; padding: 10px 10px; width: 70px; height:25px; transition: all 0.5s; cursor: pointer; margin: 5px; line-height: 7px;" onmouseover="this.style.backgroundColor='#2DA1AD'; this.querySelector('span').style.paddingRight = '12px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">Slides <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a> <!-- Trigger Button -->
+<button onclick="togglePopover()" style="margin: 1em;">Show Info</button>
+
+<!-- Popover Container -->
+<div id="popover" style="display:none; position: absolute; background: #fff; border: 1px solid #ccc; padding: 1em; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); z-index:100;">
+  <p id="textToCopy">Here is some custom text to copy!</p>
+  <button onclick="copyText()">Copy</button>
+</div>
+
+<!-- Script -->
+<script>
+  function togglePopover() {
+    const popover = document.getElementById("popover");
+    popover.style.display = (popover.style.display === "none") ? "block" : "none";
+
+    // Optional: reposition near the button
+    const button = event.target;
+    const rect = button.getBoundingClientRect();
+    popover.style.top = (window.scrollY + rect.bottom + 10) + "px";
+    popover.style.left = (window.scrollX + rect.left) + "px";
+  }
+
+  function copyText() {
+    const text = document.getElementById("textToCopy").innerText;
+    navigator.clipboard.writeText(text).then(() => {
+      alert("Copied to clipboard!");
+    }).catch(err => {
+      alert("Failed to copy text: " + err);
+    });
+  }
+</script>
 <!--  -->
 
 - 03/03/2025: _Practical Post-Quantum Signatures for Privacy_. At [ENSL/CWI/KCL/IRISA Joint Cryptography Seminar](https://jcs.trusted-third-party.org/) (online). <a href="/assets/slides/2025-03-03_ENSL-CWI-KCL-IRISA_Practical_Post-Quantum_Signatures_for_Privacy.pdf" target="_blank" style="text-decoration: none;"><button class="button" style="display: inline-block; border-radius: 25px; background-color: #337076; border: none; color: #FFFFFF; text-align: center; padding: 10px 10px; width: 70px; height:25px; transition: all 0.5s; cursor: pointer; margin: 5px; line-height: 7px;" onmouseover="this.style.backgroundColor='#2DA1AD'; this.querySelector('span').style.paddingRight = '12px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">Slides <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a> 
