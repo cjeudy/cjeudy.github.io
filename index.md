@@ -31,7 +31,7 @@ Only available on [IACR ePrint](https://eprint.iacr.org/2024/1289) at the moment
 
 - **Practical Post-Quantum Signatures for Privacy.** [Paper](/papers/practical_post_quantum_signatures_for_privacy)  
 [Sven Argo](https://informatik.rub.de/seceng/personen/argo/), [Tim Güneysu](https://informatik.rub.de/seceng/personen/gueneysu/), Corentin Jeudy, [Georg Land](https://georg.land/), [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226)  
-In the proceedings of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html) (proceedings yet to be published).  
+In the proceedings of [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html).  
 
 - **Phoenix: Hash-and-Sign with Aborts from Lattice Gadgets.** [Paper](/papers/phoenix_hash_and_sign_with_aborts_from_lattice_gadgets)  
 Corentin Jeudy, [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226)  
