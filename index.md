@@ -121,7 +121,7 @@ Published in [Techniques de l'Ingénieur](https://www.techniques-ingenieur.fr/).
 # Teaching
 
 
-- **Lattice-Based Cryptography, Rennes 1 University, CyberSchool** (Fall 2022, 2023, 2024)
+- **Lattice-Based Cryptography, Rennes 1 University, CyberSchool** (Fall 2022, 2023, 2024)  
 Lectures and Exercise Sessions in lattice-based cryptography for Master 2 level students from Rennes 1 University and CyberSchool.  
 
 - **Information Systems and Programming, CentraleSupélec** (Fall 2018)   
