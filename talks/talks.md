@@ -4,6 +4,10 @@ title: "Talks"
 permalink: /talks
 ---
 
+[<span class="mydate">2025</span>](/talks/#2025) [<span class="mydate">2024</span>](/talks/#2024) [<span class="mydate">2023</span>](/talks/#2023) [<span class="mydate">2022</span>](/talks/#2022) [<span class="mydate">2021</span>](/talks/#2021)  
+
+<br>
+
 ### 2025
 
 **Worst-Case Lattice Sampler with Truncated Gadgets and Applications**  

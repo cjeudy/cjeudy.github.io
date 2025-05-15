@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications
 ---
 
+[<span class="mydate">2024</span>](/publications/#2024) [<span class="mydate">2023</span>](/publications/#2023) [<span class="mydate">2022</span>](/publications/#2022) [<span class="mydate">2021</span>](/publications/#2021) [<span class="mydate">2020</span>](/publications/#2020) [<span class="mydate">Reviewing</span>](/publications/#reviewing)  
+
+<br>
+
 ### Thesis
 
 [**Design of Advanced Post-Quantum Signature Schemes**](/publications/design_of_advanced_post_quantum_signature_schemes) | <span class="conf">PhD Thesis University of Rennes 2024</span>  
