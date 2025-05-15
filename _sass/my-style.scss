@@ -37,25 +37,49 @@ p.lead {
 //homepage header font size
 .homeheader {
     font-size: 2rem;
+    color: rgb(51,112,118);
 }
 
-//Titles
-#publications {
-    font-size: 2.2rem;
-    color: rgb(51,112,118);
+button.mybutton {
+    display: inline-block; 
+    border-radius: 5px; 
+    background-color: #FFFFFF; 
+    border: 2px solid; 
+    border-color:#337076; 
+    color: #337076; 
+    font-weight: bold;
+    text-align: center; 
+    padding: 7px 10px; 
+    width: 80px; 
+    height:25px; 
+    transition: all 0.5s; 
+    cursor: pointer; 
+    margin: 1px; 
+    line-height: 7px;
 }
-#talks {
-    font-size: 2.2rem;
-    color: rgb(51,112,118);
-}
-#thesis {
-    font-size: 2.2rem;
-    color: rgb(51,112,118);
-}
-#teaching {
-    font-size: 2.2rem;
-    color: rgb(51,112,118);
-}
+
+
+////Titles
+//.publications {
+//    font-size: 2.2rem;
+//    color: rgb(51,112,118);
+//}
+//#publications {
+//    font-size: 2.2rem;
+//    color: rgb(51,112,118);
+//}
+//#talks {
+//    font-size: 2.2rem;
+//    color: rgb(51,112,118);
+//}
+//#thesis {
+//    font-size: 2.2rem;
+//    color: rgb(51,112,118);
+//}
+//#teaching {
+//    font-size: 2.2rem;
+//    color: rgb(51,112,118);
+//}
 #about-me {
     font-size: 2.2rem;
     color: rgb(51,112,118);
@@ -76,10 +100,42 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight: 600;
 }
 
-// change color of h3 - h6 to pitch black
-//h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
-//    color: black;
-//}
+// change color of h1 to blue
+h1 {
+    font-size: 2.2rem;
+    color: rgb(51,112,118);
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+span.conf {
+    color: rgb(194,139,76);
+}
+
+span.authors {
+    font-size: 1rem;
+    font-style: italic;
+    color: rgb(112,112,112);
+}
+
+span.talkLocation {
+    font-size: 1rem;
+    color: rgb(112,112,112);
+}
+
+span.talkEvent {
+    font-size: 1rem;
+    font-style: italic;
+    color: rgb(112,112,112);
+}
+
+span.talkAuthor {
+    font-size: 1rem;
+    font-weight: bold;
+    color: rgb(112,112,112);
+}
 
 // change color of h1 and homepage headers to blue
 //h1, .h1, .homeheader {

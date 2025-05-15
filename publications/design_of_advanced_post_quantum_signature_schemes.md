@@ -1,0 +1,26 @@
+---
+layout: page
+title: "Practical Post-Quantum Signatures for Privacy"
+permalink: /publications/design_of_advanced_post_quantum_signature_schemes
+---
+
+PhD Thesis of the University of Rennes 2024, publicly defended on June 18th, 2024.  
+**Supervision:** Pierre-Alain Fouque, Adeline Roux-Langlois, Olivier Sanders.  
+**Jury:**
+- **Damien Vergnaud**, Sorbonne Université (president)  
+- **Vadim Lyubashevsky**, IBM Research Europe (reviewer)  
+- **Olivier Blazy**, École Polytechnique (reviewer)  
+- **Alice Pellet--Mary**, CNRS Bordeaux (examinator)  
+- **Pierre-Alain Fouque**, Université Rennes (director)  
+- **Adeline Roux-Langlois**, CNRS Caen (director)  
+- **Olivier Sanders**, Orange (supervisor)  
+ 
+
+<a href="/assets/pub/manuscript.pdf" target="_blank" style="text-decoration: none;"><button class="mybutton" onmouseover="this.style.backgroundColor='#337076'; this.style.color='#FFFFFF'; this.querySelector('span').style.paddingRight = '16px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">PDF <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a>
+<a href="/assets/slides/2024-06-18_defense_slides.pdf" target="_blank" style="text-decoration: none;"><button class="mybutton" onmouseover="this.style.backgroundColor='#337076'; this.style.color='#FFFFFF'; this.querySelector('span').style.paddingRight = '12px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">Slides <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a>
+<a href="https://youtu.be/Kwz9_7LnwNE" target="_blank" style="text-decoration: none;"><button class="mybutton" onmouseover="this.style.backgroundColor='#337076'; this.style.color='#FFFFFF'; this.querySelector('span').style.paddingRight = '12px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">Video <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a>  
+
+## Abstract
+> The transition to post-quantum cryptography has been an enormous effort for cryptographers over the last decade. In the meantime, cryptography for the protection of privacy, aiming at addressing the limitations inherent to basic cryptographic mechanisms in this domain, has also attracted a lot of attention. Nevertheless, despite the success of both individual branches, combining both aspects along with practicality turns out to be very challenging.
+>
+> The goal of this thesis then lies in proposing new constructions for practical post-quantum privacy, and more generally advanced authentication mechanisms. To this end, we first focus on the lower level by studying one of the fundamental mathematical assumptions used in lattice-based cryptography: Module Learning With Errors. We show that it does not get significantly easier when stretching the secret and error distributions. We then turn to optimizing preimage samplers which are used in advanced signature designs. Far from being limited to this use case, we show that it also leads to efficient designs of regular signatures. Finally, we use some of the previous contributions to construct so-called signatures with efficient protocols, a versatile building block in countless advanced applications. We showcase it by giving the first post-quantum anonymous credentials, which we implement to demonstrate a theoretical and practical efficiency.
