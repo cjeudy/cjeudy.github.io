@@ -46,7 +46,7 @@ permalink: /publications
 
 ### 2020  
 
-[**Towards Classical Hardness of Module-LWE: The Linear Rank Case**](towards_classical_hardness_of_module-lwe_the_linear_rank_case) | <span class="conf">Asiacrypt 2020</span>   
+[**Towards Classical Hardness of Module-LWE: The Linear Rank Case**](/publications/towards_classical_hardness_of_module-lwe_the_linear_rank_case) | <span class="conf">Asiacrypt 2020</span>   
 <span class="authors">Katharina Boudgoust, Corentin Jeudy, Adeline Roux-Langlois, Weiqiang Wen</span>  
 
 
