@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications
 ---
 
-[<span class="mydate">2024</span>](/publications#2024) [<span class="mydate">2023</span>](/publications#2023) [<span class="mydate">2022</span>](/publications#2022) [<span class="mydate">2021</span>](/publications#2021) [<span class="mydate">2020</span>](/publications#2020) [<span class="mydate">Reviewing</span>](/publications#reviewing)  
+[<span class="mydate">2025</span>](/publications#2025) [<span class="mydate">2024</span>](/publications#2024) [<span class="mydate">2023</span>](/publications#2023) [<span class="mydate">2022</span>](/publications#2022) [<span class="mydate">2021</span>](/publications#2021) [<span class="mydate">2020</span>](/publications#2020) [<span class="mydate">Reviewing</span>](/publications#reviewing)  
 
 <br>
 
@@ -13,13 +13,15 @@ permalink: /publications
 [**Design of Advanced Post-Quantum Signature Schemes**](/publications/design_of_advanced_post_quantum_signature_schemes) | <span class="conf">PhD Thesis University of Rennes 2024</span>  
 <span class="authors">Corentin Jeudy</span>   
 
+### 2025
+
+[**Improved Lattice Blind Signatures from Recycled Entropy**](/publications/improved_lattice_blind_signatures_from_recycled_entropy) | <span class="conf">Crypto 2025</span>    
+<span class="authors">Corentin Jeudy, Olivier Sanders</span>  
+
 ### 2024
 
 [**Worst-Case Lattice Sampler with Truncated Gadgets and Applications**](/publications/worst-case_lattice_sampler_with_truncated_gadgets_and_applications) | <span class="conf">Preprint</span>    
 <span class="authors">Corentin Jeudy, Olivier Sanders</span>   
-
-[**Improved Lattice Blind Signatures from Recycled Entropy**](/publications/improved_lattice_blind_signatures_from_recycled_entropy) | <span class="conf">Preprint</span>    
-<span class="authors">Corentin Jeudy, Olivier Sanders</span>  
 
 [**Practical Post-Quantum Signatures for Privacy**](/publications/practical_post_quantum_signatures_for_privacy) | <span class="conf">ACM CCS 2024</span>  
 <span class="authors">Sven Argo, Tim Güneysu, Corentin Jeudy, Georg Land, Adeline Roux-Langlois, Olivier Sanders</span>  
