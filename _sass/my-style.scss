@@ -58,6 +58,24 @@ button.mybutton {
     line-height: 7px;
 }
 
+button.mybuttonlarge {
+    display: inline-block; 
+    border-radius: 5px; 
+    background-color: #FFFFFF; 
+    border: 2px solid; 
+    border-color:#337076; 
+    color: #337076; 
+    font-weight: bold;
+    text-align: center; 
+    padding: 7px 10px; 
+    width: 145px; 
+    height:25px; 
+    transition: all 0.5s; 
+    cursor: pointer; 
+    margin: 1px; 
+    line-height: 7px;
+}
+
 
 ////Titles
 //.publications {
