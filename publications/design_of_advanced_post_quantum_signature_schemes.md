@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Practical Post-Quantum Signatures for Privacy"
+title: "PhD Thesis: Design of Advanced Post-Quantum Signature Schemes"
 permalink: /publications/design_of_advanced_post_quantum_signature_schemes
 ---
 
