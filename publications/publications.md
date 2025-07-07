@@ -15,6 +15,12 @@ permalink: /publications
 
 ### 2025
 
+[**Lattice EPID with Efficient Revocation**](/publications/lattice_epid_with_efficient_revocation) | <span class="conf">Preprint</span>    
+<span class="authors">Corentin Jeudy, Olivier Sanders</span>   
+
+<!-- [**Hardness of M-LWE with General Distributions and Applications to Leaky Variants**](/publications/hardness_of_mlwe_with_general_distributions_and_applications_to_leaky_variants) | <span class="conf">Preprint</span>    
+<span class="authors">Katharina Boudgoust, Corentin Jeudy, Erkan Tairi, Weiqiang Wen</span>    -->
+
 [**Improved Lattice Blind Signatures from Recycled Entropy**](/publications/improved_lattice_blind_signatures_from_recycled_entropy) | <span class="conf">Crypto 2025</span>    
 <span class="authors">Corentin Jeudy, Olivier Sanders</span>  
 
