@@ -13,6 +13,8 @@ permalink: /publications
 [**Design of Advanced Post-Quantum Signature Schemes**](/publications/design_of_advanced_post_quantum_signature_schemes) | <span class="conf">PhD Thesis University of Rennes 2024</span>  
 <span class="authors">Corentin Jeudy</span>   
 
+<br>
+
 ### 2025
 
 [**Lattice EPID with Efficient Revocation**](/publications/lattice_epid_with_efficient_revocation) | <span class="conf">Preprint</span>    
@@ -23,6 +25,8 @@ permalink: /publications
 
 [**Improved Lattice Blind Signatures from Recycled Entropy**](/publications/improved_lattice_blind_signatures_from_recycled_entropy) | <span class="conf">Crypto 2025</span>    
 <span class="authors">Corentin Jeudy, Olivier Sanders</span>  
+
+<br>
 
 ### 2024
 
@@ -35,6 +39,8 @@ permalink: /publications
 [**Phoenix: Hash-and-Sign with Aborts from Lattice Gadgets**](/publications/phoenix_hash_and_sign_with_aborts_from_lattice_gadgets) | <span class="conf">PQCrypto 2024</span>    
 <span class="authors">Corentin Jeudy, Adeline Roux-Langlois, Olivier Sanders</span>  
 
+<br>
+
 ### 2023
 
 [**Lattice Signature with Efficient Protocols, Application to Anonymous Credentials**](/publications/lattice_signature_with_efficient_protocols_application_to_anonymous_credentials) | <span class="conf">Crypto 2023</span>  
@@ -46,21 +52,28 @@ permalink: /publications
 [**Lattice-Based Cryptography**](/publications/lattice-based_cryptography) | <span class="conf">Techniques de l'Ingénieur 2023</span>  
 <span class="authors">Corentin Jeudy, Adeline Roux-Langlois</span>  
 
+<br>
+
 ### 2022
 
 [**Entropic Hardness of Module-LWE from Module-NTRU**](/publications/entropic_hardness_of_module-lwe_from_module-ntru) | <span class="conf">Indocrypt 2022</span>    
 <span class="authors">Katharina Boudgoust, Corentin Jeudy, Adeline Roux-Langlois, Weiqiang Wen</span>  
+
+<br>
 
 ### 2021  
 
 [**On the Hardness of Module-LWE with Binary Secret**](/publications/on_the_hardness_of_module-lwe_with_binary_secret) | <span class="conf">CT-RSA 2021</span>    
 <span class="authors">Katharina Boudgoust, Corentin Jeudy, Adeline Roux-Langlois, Weiqiang Wen</span>  
 
+<br>
+
 ### 2020  
 
 [**Towards Classical Hardness of Module-LWE: The Linear Rank Case**](/publications/towards_classical_hardness_of_module-lwe_the_linear_rank_case) | <span class="conf">Asiacrypt 2020</span>   
 <span class="authors">Katharina Boudgoust, Corentin Jeudy, Adeline Roux-Langlois, Weiqiang Wen</span>  
 
+<br>
 
 ### Reviewing
 
