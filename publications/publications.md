@@ -17,11 +17,14 @@ permalink: /publications
 
 ### 2025
 
+<!-- [**Hardness of M-LWE with General Distributions and Applications to Leaky Variants**](/publications/hardness_of_mlwe_with_general_distributions_and_applications_to_leaky_variants) | <span class="conf">Preprint</span>    
+<span class="authors">Katharina Boudgoust, Corentin Jeudy, Erkan Tairi, Weiqiang Wen</span>    -->
+
 [**Lattice EPID with Efficient Revocation**](/publications/lattice_epid_with_efficient_revocation) | <span class="conf">Preprint</span>    
 <span class="authors">Corentin Jeudy, Olivier Sanders</span>   
 
-<!-- [**Hardness of M-LWE with General Distributions and Applications to Leaky Variants**](/publications/hardness_of_mlwe_with_general_distributions_and_applications_to_leaky_variants) | <span class="conf">Preprint</span>    
-<span class="authors">Katharina Boudgoust, Corentin Jeudy, Erkan Tairi, Weiqiang Wen</span>    -->
+[**Worst-Case Lattice Sampler with Truncated Gadgets and Applications**](/publications/worst-case_lattice_sampler_with_truncated_gadgets_and_applications) | <span class="conf">Asiacrypt 2025</span>    
+<span class="authors">Corentin Jeudy, Olivier Sanders</span>   
 
 [**Improved Lattice Blind Signatures from Recycled Entropy**](/publications/improved_lattice_blind_signatures_from_recycled_entropy) | <span class="conf">Crypto 2025</span>    
 <span class="authors">Corentin Jeudy, Olivier Sanders</span>  
@@ -29,9 +32,6 @@ permalink: /publications
 <br>
 
 ### 2024
-
-[**Worst-Case Lattice Sampler with Truncated Gadgets and Applications**](/publications/worst-case_lattice_sampler_with_truncated_gadgets_and_applications) | <span class="conf">Preprint</span>    
-<span class="authors">Corentin Jeudy, Olivier Sanders</span>   
 
 [**Practical Post-Quantum Signatures for Privacy**](/publications/practical_post_quantum_signatures_for_privacy) | <span class="conf">ACM CCS 2024</span>  
 <span class="authors">Sven Argo, Tim Güneysu, Corentin Jeudy, Georg Land, Adeline Roux-Langlois, Olivier Sanders</span>  
