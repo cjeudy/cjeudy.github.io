@@ -16,7 +16,7 @@ permalink: /talks
 <span class="talkAuthor">Corentin Jeudy</span>  
 
 **Improved Lattice Blind Signature from Recycled Entropy**  
-<span class="talkLocation">August 20th, 2025 | 10:50 -- 11:10 | UCSB, Santa Barbara, California, USA</span>  
+<span class="talkLocation">August 20th, 2025 | 11:50 -- 12:10 | UCSB, Santa Barbara, California, USA</span>  
 <span class="talkEvent">[Crypto 2025](https://crypto.iacr.org/2025/)</span>  
 <span class="talkAuthor">Corentin Jeudy</span>  
 <a href="/assets/slides/2025-08-20_Crypto_Improved_Lattice_Blind_Signature_from_Recycled_Entropy.pdf" target="_blank" style="text-decoration: none;"><button class="mybutton" onmouseover="this.style.backgroundColor='#337076'; this.style.color='#FFFFFF'; this.querySelector('span').style.paddingRight = '12px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">Slides <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a>  
@@ -28,7 +28,7 @@ permalink: /talks
 ### 2025
 
 <!-- **Improved Lattice Blind Signature from Recycled Entropy**  
-<span class="talkLocation">August 20th, 2025 | 10:50 -- 11:10 | UCSB, Santa Barbara, California, USA</span>  
+<span class="talkLocation">August 20th, 2025 | 11:50 -- 12:10 | UCSB, Santa Barbara, California, USA</span>  
 <span class="talkEvent">[Crypto 2025](https://crypto.iacr.org/2025/)</span>  
 <span class="talkAuthor">Corentin Jeudy</span>  
 <a href="/assets/slides/2025-08-20_Crypto_Improved_Lattice_Blind_Signature_from_Recycled_Entropy.pdf" target="_blank" style="text-decoration: none;"><button class="mybutton" onmouseover="this.style.backgroundColor='#337076'; this.style.color='#FFFFFF'; this.querySelector('span').style.paddingRight = '12px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">Slides <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a>
