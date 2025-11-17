@@ -38,6 +38,6 @@ Orange Innovation
 35510 Cesson-Sévigné  
 France   
 
-**Affiliation**: Orange Innovation, Applied Crypto Group
+**Affiliation**: Orange Labs, France
 
 <!-- <span class="icon-mail"></span> --> **Email**: corentin <!-- edjkzzoi"_8 -->&bull; jeudy [a<!-- ejhiekbdk -->t] orange<!-- zmzkpzoç038UHOEdk --> &bull; com
