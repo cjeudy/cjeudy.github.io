@@ -11,7 +11,7 @@ permalink: /talks
 ### Upcoming
 
 **Worst-Case Lattice Sampler with Truncated Gadgets and Applications**  
-<span class="talkLocation">December 8th-12th, 2025 | Time TBA | Melbourne, Australia</span>  
+<span class="talkLocation">December 09th, 2025 | 14:50 -- 15:10 | Melbourne, Australia</span>  
 <span class="talkEvent">[Asiacrypt 2025](https://asiacrypt.iacr.org/2025/)</span>  
 <span class="talkAuthor">Corentin Jeudy</span>  
 
