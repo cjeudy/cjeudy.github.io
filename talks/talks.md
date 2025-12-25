@@ -4,11 +4,12 @@ title: "Talks"
 permalink: /talks
 ---
 
-[<span class="mydate">Upcoming</span>](/talks#upcoming) [<span class="mydate">2025</span>](/talks#2025) [<span class="mydate">2024</span>](/talks#2024) [<span class="mydate">2023</span>](/talks#2023) [<span class="mydate">2022</span>](/talks#2022) [<span class="mydate">2021</span>](/talks#2021)  
+<!-- [<span class="mydate">Upcoming</span>](/talks#upcoming)  -->
+[<span class="mydate">2025</span>](/talks#2025) [<span class="mydate">2024</span>](/talks#2024) [<span class="mydate">2023</span>](/talks#2023) [<span class="mydate">2022</span>](/talks#2022) [<span class="mydate">2021</span>](/talks#2021)  
 
 <br>
 
-### Upcoming
+<!-- ### Upcoming
 
 **Worst-Case Lattice Sampler with Truncated Gadgets and Applications**  
 <span class="talkLocation">December 09th, 2025 | 14:50 -- 15:10 | Melbourne, Australia</span>  
@@ -16,16 +17,23 @@ permalink: /talks
 <span class="talkAuthor">Corentin Jeudy</span>  
 
 <br>
-<br>
+<br> -->
 
 ### 2025
+
+**Worst-Case Lattice Sampler with Truncated Gadgets and Applications**  
+<span class="talkLocation">December 09th, 2025 | 14:50 -- 15:10 | Melbourne, Australia</span>  
+<span class="talkEvent">[Asiacrypt 2025](https://asiacrypt.iacr.org/2025/)</span>  
+<span class="talkAuthor">Corentin Jeudy</span>  
+<a href="/assets/slides/2025-12-09_Asiacrypt_Worst-Case_Lattice_Sampler_with_Truncated_Gadgets_and_Applications.pdf" target="_blank" style="text-decoration: none;"><button class="mybutton" onmouseover="this.style.backgroundColor='#337076'; this.style.color='#FFFFFF'; this.querySelector('span').style.paddingRight = '12px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">Slides <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a>  
+<!-- <a href="https://youtu.be/xxxxxx" target="_blank" style="text-decoration: none;"><button class="mybutton" onmouseover="this.style.backgroundColor='#337076'; this.style.color='#FFFFFF'; this.querySelector('span').style.paddingRight = '12px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">Video <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a>   -->
 
 **Improved Lattice Blind Signature from Recycled Entropy**  
 <span class="talkLocation">August 20th, 2025 | 11:50 -- 12:10 | UCSB, Santa Barbara, California, USA</span>  
 <span class="talkEvent">[Crypto 2025](https://crypto.iacr.org/2025/)</span>  
 <span class="talkAuthor">Corentin Jeudy</span>  
-<a href="/assets/slides/2025-08-20_Crypto_Improved_Lattice_Blind_Signature_from_Recycled_Entropy.pdf" target="_blank" style="text-decoration: none;"><button class="mybutton" onmouseover="this.style.backgroundColor='#337076'; this.style.color='#FFFFFF'; this.querySelector('span').style.paddingRight = '12px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">Slides <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a>  
-<!-- <a href="https://youtu.be/xxxxxx" target="_blank" style="text-decoration: none;"><button class="mybutton" onmouseover="this.style.backgroundColor='#337076'; this.style.color='#FFFFFF'; this.querySelector('span').style.paddingRight = '12px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">Video <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a>   -->
+<a href="/assets/slides/2025-08-20_Crypto_Improved_Lattice_Blind_Signature_from_Recycled_Entropy.pdf" target="_blank" style="text-decoration: none;"><button class="mybutton" onmouseover="this.style.backgroundColor='#337076'; this.style.color='#FFFFFF'; this.querySelector('span').style.paddingRight = '12px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">Slides <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a>
+<a href="https://youtu.be/pieuV8Yfydc?si=pAt0-bAGRLskETHo&t=3731" target="_blank" style="text-decoration: none;"><button class="mybutton" onmouseover="this.style.backgroundColor='#337076'; this.style.color='#FFFFFF'; this.querySelector('span').style.paddingRight = '12px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">Video <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a>  
 
 **Worst-Case Lattice Sampler with Truncated Gadgets and Applications**  
 <span class="talkLocation">March 19th, 2025 | 15:00 -- 16:00 | Royal Holloway University of London, Egham, England</span>  
