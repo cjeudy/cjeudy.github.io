@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications
 ---
 
-[<span class="mydate">2025</span>](/publications#2025) [<span class="mydate">2024</span>](/publications#2024) [<span class="mydate">2023</span>](/publications#2023) [<span class="mydate">2022</span>](/publications#2022) [<span class="mydate">2021</span>](/publications#2021) [<span class="mydate">2020</span>](/publications#2020) [<span class="mydate">Reviewing</span>](/publications#reviewing)  
+[<span class="mydate">2026</span>](/publications#2026) [<span class="mydate">2025</span>](/publications#2025) [<span class="mydate">2024</span>](/publications#2024) [<span class="mydate">2023</span>](/publications#2023) [<span class="mydate">2022</span>](/publications#2022) [<span class="mydate">2021</span>](/publications#2021) [<span class="mydate">2020</span>](/publications#2020) [<span class="mydate">Reviewing</span>](/publications#reviewing)  
 
 <br>
 
@@ -14,6 +14,11 @@ permalink: /publications
 <span class="authors">Corentin Jeudy</span>   
 
 <br>
+
+### 2026
+
+[**Tag-Friendly Lattice Sampler and Applications**](/publications/tag-friendly_lattice_sampler_and_applications) | <span class="conf">Preprint</span>    
+<span class="authors">Corentin Jeudy, Olivier Sanders</span>  
 
 ### 2025
 
