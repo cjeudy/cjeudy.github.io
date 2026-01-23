@@ -20,6 +20,8 @@ permalink: /publications
 [**Tag-Friendly Lattice Sampler and Applications**](/publications/tag-friendly_lattice_sampler_and_applications) | <span class="conf">Preprint</span>    
 <span class="authors">Corentin Jeudy, Olivier Sanders</span>  
 
+<br>
+
 ### 2025
 
 [**Hardness of M-LWE with General Distributions and Applications to Leaky Variants**](/publications/hardness_of_mlwe_with_general_distributions_and_applications_to_leaky_variants) | <span class="conf">Preprint</span>    
