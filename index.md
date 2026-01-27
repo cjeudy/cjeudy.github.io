@@ -6,7 +6,7 @@ cover: true
 permalink: /
 ---
 
-I am a cryptography researcher at Orange Innovation in the [Applied Cryptography Group](https://crypto.orange-labs.fr/). My [PhD thesis](/publications/design_of_advanced_post_quantum_signature_schemes) was on the design of advanced post-quantum signature schemes from lattices, under the supervision of [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/) (IRISA), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226) (Orange Labs) and [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) (IRISA).  
+I am a cryptography researcher at Orange Innovation in the [Applied Cryptography Group](https://crypto.orange-labs.fr/). My [PhD thesis](/publications/design_of_advanced_post_quantum_signature_schemes) was on the design of advanced post-quantum signature schemes from lattices, under the supervision of [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/) (IRISA), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226) (Orange Labs) and [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) (IRISA). I was awarded an accessit to the [Gilles Kahn 2025 thesis prize](https://www.socinfo.fr/palmares-du-prix-de-these-gilles-kahn-2025/) for my PhD thesis, with the distinction "Thesis with Industrial Impact".
 
 **Interests:** Post-Quantum Cryptography, Constructions, Implementations, Digital Identity and Privacy  
 **Education:**
@@ -20,7 +20,7 @@ I am a cryptography researcher at Orange Innovation in the [Applied Cryptography
 
 I am a research engineer at Orange Innovation in the [Applied Cryptography Group](https://crypto.orange-labs.fr/). I am working on post-quantum cryptography, and more precisely on designing advanced lattice-based signature schemes for privacy applications. Feel free to check out my quick introduction [video](videos/a_quick_intro_to_lattice_cryptography) on lattice cryptography.
 
-I completed my PhD on the subject in June 2024. It was done in collaboration with the [CAPSULE team](https://team.inria.fr/capsule/) at INRIA/IRISA in Rennes, and under the supervision of [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/) (IRISA), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226) (Orange Labs) and [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) (IRISA). 
+I completed my PhD on the subject in June 2024. It was done in collaboration with the [CAPSULE team](https://team.inria.fr/capsule/) at INRIA/IRISA in Rennes, and under the supervision of [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/) (IRISA), [Olivier Sanders](https://crypto.orange-labs.fr/acg/people/peopleProfil.php?id=226) (Orange Labs) and [Pierre-Alain Fouque](https://www.di.ens.fr/~fouque/) (IRISA). I was awarded an accessit to the [Gilles Kahn 2025 thesis prize](https://www.socinfo.fr/palmares-du-prix-de-these-gilles-kahn-2025/) for my PhD thesis, with the distinction "Thesis with Industrial Impact".
 
 Before that, I was a research intern (Jan. - Jul. 2020 & Apr. - Sep. 2021) supervised by [Adeline Roux-Langlois](https://people.irisa.fr/Adeline.Roux-Langlois/). I was working on the computational assumptions underlying lattice-based cryptosystems, namely the Module Learning With Errors problem.  
 
