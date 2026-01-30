@@ -20,15 +20,15 @@ permalink: /publications
 [**Tag-Friendly Lattice Sampler and Applications**](/publications/tag-friendly_lattice_sampler_and_applications) | <span class="conf">Preprint</span>    
 <span class="authors">Corentin Jeudy, Olivier Sanders</span>  
 
+[**Lattice EPID with Efficient Revocation**](/publications/lattice_epid_with_efficient_revocation) | <span class="conf">Eurocrypt 2026</span>    
+<span class="authors">Corentin Jeudy, Olivier Sanders</span>  
+
 <br>
 
 ### 2025
 
 [**Hardness of M-LWE with General Distributions and Applications to Leaky Variants**](/publications/hardness_of_mlwe_with_general_distributions_and_applications_to_leaky_variants) | <span class="conf">Preprint</span>    
 <span class="authors">Katharina Boudgoust, Corentin Jeudy, Erkan Tairi, Weiqiang Wen</span>   
-
-[**Lattice EPID with Efficient Revocation**](/publications/lattice_epid_with_efficient_revocation) | <span class="conf">Preprint</span>    
-<span class="authors">Corentin Jeudy, Olivier Sanders</span>   
 
 [**Worst-Case Lattice Sampler with Truncated Gadgets and Applications**](/publications/worst-case_lattice_sampler_with_truncated_gadgets_and_applications) | <span class="conf">Asiacrypt 2025</span>    
 <span class="authors">Corentin Jeudy, Olivier Sanders</span>   
