@@ -6,7 +6,7 @@ permalink: /publications/hardness_of_mlwe_with_general_distributions_and_applica
 
 Co-authored with [Katharina Boudgoust](https://katinkabou.github.io/), [Erkan Tairi](https://erkantairi.com/), and [Weiqiang Wen](http://people.irisa.fr/Weiqiang.Wen/).  
 
-Not yet published.   
+To appear in the proceedings of <span class="conf">PKC 2026</span>.     
 
 <a href="https://eprint.iacr.org/2025/1472" target="_blank" style="text-decoration: none;"><button class="mybutton" onmouseover="this.style.backgroundColor='#337076'; this.style.color='#FFFFFF'; this.querySelector('span').style.paddingRight = '16px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">ePrint <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a>  
 
