@@ -18,6 +18,16 @@ permalink: /talks
 <br>
 <br>
 
+### 2026
+
+**PQC and Crypto-agility: Decrypt the Quantum Threat**  
+<span class="talkLocation">March 31st, 2026 | 15:00 -- 15:30 | Lille, France</span>  
+<span class="talkEvent">[Forum In Cyber 2026](https://europe.forum-incyber.com/)</span>  
+<span class="talkAuthor">Benjamin Thomas & Corentin Jeudy</span> 
+
+<br>
+<br>
+
 ### 2025
 
 **Worst-Case Lattice Sampler with Truncated Gadgets and Applications**  
