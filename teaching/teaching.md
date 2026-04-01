@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "Teaching"
+title: "Teaching and Supervision"
 permalink: /teaching
 ---
+
+# Teaching
 
 On my own time, I am an external lecturer at the University of Rennes.
 
@@ -12,3 +14,9 @@ A first version of my lecture notes is available below. Feel free to contact me 
 
 - **Information Systems and Programming, CentraleSupélec** (Fall 2018)   
 Co-construction of the course as part of the first year curriculum of CentraleSupélec engineering school. Practical exercises in information systems and networks and Python programming labs. Introduction to information security.  
+
+# Students
+
+- Paul Delhom, since Nov. 2025, co-supervised with Pierre-Alain Fouque and Olivier Sanders  
+Subject: "Advanced Post-Quantum Signatures"
+
