@@ -17,6 +17,9 @@ permalink: /publications
 
 ### 2026
 
+[**Lattice Group Signatures, Revisited**](/publications/lattice_group_signatures_revisited) | <span class="conf">Preprint</span>    
+<span class="authors">Paul Delhom, Pierre-Alain Fouque, Corentin Jeudy, Olivier Sanders</span>  
+
 [**Tag-Friendly Lattice Sampler and Applications**](/publications/tag-friendly_lattice_sampler_and_applications) | <span class="conf">Preprint</span>    
 <span class="authors">Corentin Jeudy, Olivier Sanders</span>  
 

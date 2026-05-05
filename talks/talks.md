@@ -4,14 +4,14 @@ title: "Talks"
 permalink: /talks
 ---
 
-[<span class="mydate">Upcoming</span>](/talks#upcoming) [<span class="mydate">2025</span>](/talks#2025) [<span class="mydate">2024</span>](/talks#2024) [<span class="mydate">2023</span>](/talks#2023) [<span class="mydate">2022</span>](/talks#2022) [<span class="mydate">2021</span>](/talks#2021)  
+[<span class="mydate">Upcoming</span>](/talks#upcoming) [<span class="mydate">2026</span>](/talks#2026) [<span class="mydate">2025</span>](/talks#2025) [<span class="mydate">2024</span>](/talks#2024) [<span class="mydate">2023</span>](/talks#2023) [<span class="mydate">2022</span>](/talks#2022) [<span class="mydate">2021</span>](/talks#2021)  
 
 <br>
 
 ### Upcoming
 
 **Lattice EPID with Efficient Revocation**  
-<span class="talkLocation">May 10-14th, 2026 | TBD | Rome, Italy</span>  
+<span class="talkLocation">May 12th, 2026 | 11:05 -- 11:25 | Rome, Italy</span>  
 <span class="talkEvent">[Eurocrypt 2026](https://eurocrypt.iacr.org/2026/)</span>  
 <span class="talkAuthor">Corentin Jeudy</span>  
 
