@@ -4,21 +4,26 @@ title: "Talks"
 permalink: /talks
 ---
 
-[<span class="mydate">Upcoming</span>](/talks#upcoming) [<span class="mydate">2026</span>](/talks#2026) [<span class="mydate">2025</span>](/talks#2025) [<span class="mydate">2024</span>](/talks#2024) [<span class="mydate">2023</span>](/talks#2023) [<span class="mydate">2022</span>](/talks#2022) [<span class="mydate">2021</span>](/talks#2021)  
+<!-- [<span class="mydate">Upcoming</span>](/talks#upcoming)  -->
+[<span class="mydate">2026</span>](/talks#2026) [<span class="mydate">2025</span>](/talks#2025) [<span class="mydate">2024</span>](/talks#2024) [<span class="mydate">2023</span>](/talks#2023) [<span class="mydate">2022</span>](/talks#2022) [<span class="mydate">2021</span>](/talks#2021)  
 
 <br>
-
+<!-- 
 ### Upcoming
+
+
+
+<br>
+<br> -->
+
+### 2026
 
 **Lattice EPID with Efficient Revocation**  
 <span class="talkLocation">May 12th, 2026 | 11:05 -- 11:25 | Rome, Italy</span>  
 <span class="talkEvent">[Eurocrypt 2026](https://eurocrypt.iacr.org/2026/)</span>  
 <span class="talkAuthor">Corentin Jeudy</span>  
-
-<br>
-<br>
-
-### 2026
+<a href="/assets/slides/2026-05-12_Eurocrypt_Lattice_EPID_with_Efficient_Revocation.pdf" target="_blank" style="text-decoration: none;"><button class="mybutton" onmouseover="this.style.backgroundColor='#337076'; this.style.color='#FFFFFF'; this.querySelector('span').style.paddingRight = '12px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">Slides <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a>  
+<!-- <a href="https://youtu.be/xxxxxx" target="_blank" style="text-decoration: none;"><button class="mybutton" onmouseover="this.style.backgroundColor='#337076'; this.style.color='#FFFFFF'; this.querySelector('span').style.paddingRight = '12px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">Video <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a>   -->
 
 **PQC and Crypto-agility: Decrypt the Quantum Threat**  
 <span class="talkLocation">March 31st, 2026 | 15:00 -- 15:30 | Lille, France</span>  
