@@ -11,6 +11,12 @@ permalink: /talks
 
 ### 2026
 
+**Design of Advanced Post-Quantum Signatures**  
+<span class="talkLocation">June 05th, 2026 | 10:10 -- 11:30 | Nancy, France</span>  
+<span class="talkEvent">[SIF Congress 2026](https://congres.socinfo.fr/programme-2026/), Gilles Kahn Thesis Prize</span>  
+<span class="talkAuthor">Corentin Jeudy</span>  
+<a href="/assets/slides/2026-06-05_SIF_thesis_prize_presentation.pdf" target="_blank" style="text-decoration: none;"><button class="mybutton" onmouseover="this.style.backgroundColor='#337076'; this.style.color='#FFFFFF'; this.querySelector('span').style.paddingRight = '12px'; this.querySelector('span').querySelector('span').style.opacity = '1'; this.querySelector('span').querySelector('span').style.right = '0';" onmouseout="this.style.backgroundColor='#FFFFFF'; this.style.color='#337076'; this.querySelector('span').style.paddingRight = '0'; this.querySelector('span').querySelector('span').style.opacity = '0'; this.querySelector('span').querySelector('span').style.right = '-20px';"><span style="cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-size: 16px;">Slides <span style="position: absolute; opacity: 0; top: 0; right: -20px; transition: 0.5s;">&#xbb;</span></span></button></a>  
+
 **Lattice EPID with Efficient Revocation**  
 <span class="talkLocation">May 12th, 2026 | 11:05 -- 11:25 | Rome, Italy</span>  
 <span class="talkEvent">[Eurocrypt 2026](https://eurocrypt.iacr.org/2026/)</span>  
