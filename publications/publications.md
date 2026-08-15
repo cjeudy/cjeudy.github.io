@@ -17,10 +17,10 @@ permalink: /publications
 
 ### 2026
 
-[**Lattice Group Signatures, Revisited**](/publications/lattice_group_signatures_revisited) | <span class="conf">Preprint</span>    
+[**Lattice Group Signatures, Revisited**](/publications/lattice_group_signatures_revisited) | <span class="conf">Asiacrypt 2026</span>    
 <span class="authors">Paul Delhom, Pierre-Alain Fouque, Corentin Jeudy, Olivier Sanders</span>  
 
-[**Tag-Friendly Lattice Sampler and Applications**](/publications/tag-friendly_lattice_sampler_and_applications) | <span class="conf">Preprint</span>    
+[**Tag-Friendly Lattice Sampler and Applications**](/publications/tag-friendly_lattice_sampler_and_applications) | <span class="conf">Asiacrypt 2026</span>    
 <span class="authors">Corentin Jeudy, Olivier Sanders</span>  
 
 [**Hardness of M-LWE with General Distributions and Applications to Leaky Variants**](/publications/hardness_of_mlwe_with_general_distributions_and_applications_to_leaky_variants) | <span class="conf">PKC 2026</span>    
