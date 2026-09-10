@@ -17,6 +17,9 @@ permalink: /publications
 
 ### 2026
 
+[**Compact Lattice Anonymous Credentials from Tighter Approximate Range Proofs**](/publications/compact_lattice_anonymous_credentials_from_tighter_approximate_range_proofs) | <span class="conf">Preprint</span>    
+<span class="authors">Corentin Jeudy, Olivier Sanders</span>   
+
 [**Lattice Group Signatures, Revisited**](/publications/lattice_group_signatures_revisited) | <span class="conf">Asiacrypt 2026</span>    
 <span class="authors">Paul Delhom, Pierre-Alain Fouque, Corentin Jeudy, Olivier Sanders</span>  
 
