@@ -17,6 +17,9 @@ permalink: /publications
 
 ### 2026
 
+[**Practical Lattice Group Signatures from Tag-Based NTRU Sampler**](/publications/practical_lattice_group_signatures_from_tag-based_ntru_sampler) | <span class="conf">Preprint</span>    
+<span class="authors">Corentin Jeudy</span>  
+
 [**Compact Lattice Anonymous Credentials from Tighter Approximate Range Proofs**](/publications/compact_lattice_anonymous_credentials_from_tighter_approximate_range_proofs) | <span class="conf">Preprint</span>    
 <span class="authors">Corentin Jeudy, Olivier Sanders</span>   
 
