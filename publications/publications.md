@@ -17,6 +17,9 @@ permalink: /publications
 
 ### 2026
 
+[**Rounded Gaussians are Discrete Gaussians**](/publications/rounded_gaussians_are_discrete_gaussians) | <span class="conf">Preprint</span>    
+<span class="authors">Corentin Jeudy</span>  
+
 [**Practical Lattice Group Signatures from Tag-Based NTRU Sampler**](/publications/practical_lattice_group_signatures_from_tag-based_ntru_sampler) | <span class="conf">Preprint</span>    
 <span class="authors">Corentin Jeudy</span>  
 
