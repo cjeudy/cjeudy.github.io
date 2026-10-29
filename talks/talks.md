@@ -11,15 +11,17 @@ permalink: /talks
 ### Upcoming 
 
 **Tag-Friendly Lattice Sampler and Applications**  
-<span class="talkLocation">December 7-11, 2026 | TBD | Hong-Kong, China</span>  
+<span class="talkLocation">December 09th, 2026 | 12:10 -- 12:30 | Hong-Kong, China</span>  
 <span class="talkEvent">[Asiacrypt 2026](https://asiacrypt.iacr.org/2026/)</span>  
 <span class="talkAuthor">Corentin Jeudy</span>  
 
 **Lattice Group Signatures, Revisited**  
-<span class="talkLocation">December 7-11, 2026 | TBD | Hong-Kong, China</span>  
+<span class="talkLocation">December 10th, 2026 | 15:00 -- 15:20 | Hong-Kong, China</span>  
 <span class="talkEvent">[Asiacrypt 2026](https://asiacrypt.iacr.org/2026/)</span>  
 <span class="talkAuthor">Paul Delhom</span>  
 
+<br>
+<br>
 
 ### 2026
 
